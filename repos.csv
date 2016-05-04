@@ -1,0 +1,1001 @@
+id,url,name,desc,lang,open_issues_count,stars,watching,forked,owner_un,owner_id
+21289110,https://api.github.com/repos/vinta/awesome-python,vinta/awesome-python,"A curated list of awesome Python frameworks, libraries, software and resources",Python,241,20334,20334,3721,vinta,652070
+1362490,https://api.github.com/repos/kennethreitz/requests,kennethreitz/requests,Python HTTP Requests for Humans,Python,83,18711,18711,3275,kennethreitz,119893
+529502,https://api.github.com/repos/scrapy/scrapy,scrapy/scrapy,"Scrapy, a fast high-level web crawling & scraping framework for Python.",Python,371,13774,13774,3850,scrapy,733635
+301742,https://api.github.com/repos/tornadoweb/tornado,tornadoweb/tornado,"Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",Python,146,11249,11249,3425,tornadoweb,7468980
+843222,https://api.github.com/repos/scikit-learn/scikit-learn,scikit-learn/scikit-learn,scikit-learn: machine learning in Python,Python,1169,11083,11083,6438,scikit-learn,365630
+4578002,https://api.github.com/repos/faif/python-patterns,faif/python-patterns,A collection of design patterns/idioms in Python,Python,4,8310,8310,1934,faif,1304661
+189840,https://api.github.com/repos/fabric/fabric,fabric/fabric,"Simple, Pythonic remote execution and deployment.",Python,302,7024,7024,1183,fabric,400481
+17066884,https://api.github.com/repos/binux/pyspider,binux/pyspider,A Powerful Spider(Web Crawler) System in Python.,Python,103,6468,6468,1647,binux,646451
+858127,https://api.github.com/repos/pydata/pandas,pydata/pandas,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",Python,1701,6143,6143,2515,pydata,1284191
+33015583,https://api.github.com/repos/fchollet/keras,fchollet/keras,"Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.",Python,796,5778,5778,1552,fchollet,710255
+29749635,https://api.github.com/repos/donnemartin/data-science-ipython-notebooks,donnemartin/data-science-ipython-notebooks,"Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  https://bit.ly/data-notes",Python,4,5526,5526,1040,donnemartin,5458997
+771016,https://api.github.com/repos/boto/boto,boto/boto,"For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services",Python,997,5441,5441,2002,boto,327752
+5888353,https://api.github.com/repos/spotify/luigi,spotify/luigi,"Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",Python,153,4490,4490,852,spotify,251374
+1696822,https://api.github.com/repos/clips/pattern,clips/pattern,"Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",Python,69,4378,4378,755,clips,765924
+1049095,https://api.github.com/repos/kivy/kivy,kivy/kivy,"Open source UI framework written in Python, running on Windows, Linux, OS X, Android and iOS",Python,526,4277,4277,1081,kivy,1266152
+3959394,https://api.github.com/repos/docopt/docopt,docopt/docopt,"Pythonic command line arguments parser, that will make you smile",Python,154,4250,4250,327,docopt,1820478
+3834332,https://api.github.com/repos/bokeh/bokeh,bokeh/bokeh,Interactive Web Plotting for Python,Python,636,4119,4119,851,bokeh,8440965
+363150,https://api.github.com/repos/andymccurdy/redis-py,andymccurdy/redis-py,Redis Python Client,Python,161,4070,4070,1014,andymccurdy,89265
+15570122,https://api.github.com/repos/chriskiehl/Gooey,chriskiehl/Gooey,Turn (almost) any Python command line program into a full GUI application with one line,Python,20,3988,3988,199,chriskiehl,1408720
+57419,https://api.github.com/repos/webpy/webpy,webpy/webpy,web.py is a web framework for python that is as simple as it is powerful. ,Python,197,3844,3844,1002,webpy,26682
+239940,https://api.github.com/repos/bottlepy/bottle,bottlepy/bottle,bottle.py is a fast and simple micro-framework for python web-applications.,Python,217,3696,3696,740,bottlepy,1019799
+6662075,https://api.github.com/repos/joke2k/faker,joke2k/faker,Faker is a Python package that generates fake data for you.,Python,31,3673,3673,400,joke2k,359076
+18320947,https://api.github.com/repos/dropbox/pyston,dropbox/pyston,An open-source Python implementation using JIT techniques. ,Python,82,3647,3647,248,dropbox,559357
+2183193,https://api.github.com/repos/Theano/Theano,Theano/Theano,"Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",Python,641,3604,3604,1307,Theano,970517
+1385122,https://api.github.com/repos/matplotlib/matplotlib,matplotlib/matplotlib,matplotlib: plotting with Python,Python,876,3564,3564,1808,matplotlib,215947
+27244649,https://api.github.com/repos/karpathy/neuraltalk,karpathy/neuraltalk,NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.,Python,22,3519,3519,788,karpathy,241138
+1377867,https://api.github.com/repos/locustio/locust,locustio/locust,Scalable user load testing tool written in Python,Python,133,3488,3488,492,locustio,2641063
+49760504,https://api.github.com/repos/samshadwell/TrumpScript,samshadwell/TrumpScript,Make Python great again,Python,33,3356,3356,203,samshadwell,3265633
+244025,https://api.github.com/repos/tweepy/tweepy,tweepy/tweepy,Twitter for Python!,Python,138,3347,3347,1402,tweepy,774501
+32476524,https://api.github.com/repos/google/yapf,google/yapf,A formatter for Python files,Python,49,3347,3347,215,google,1342004
+3182350,https://api.github.com/repos/amoffat/sh,amoffat/sh,Python process launching,Python,70,3322,3322,278,amoffat,259113
+6523023,https://api.github.com/repos/tgalal/yowsup,tgalal/yowsup,The python WhatsApp library,Python,487,3313,3313,1174,tgalal,895331
+19103692,https://api.github.com/repos/pallets/click,pallets/click,Python composable command line utility,Python,94,3270,3270,266,pallets,16748505
+12888993,https://api.github.com/repos/home-assistant/home-assistant,home-assistant/home-assistant,:house_with_garden: Open-source home automation platform running on Python 3,Python,154,3246,3246,633,home-assistant,13844975
+11407242,https://api.github.com/repos/audreyr/cookiecutter,audreyr/cookiecutter,"A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",Python,95,3232,3232,389,audreyr,74739
+6297520,https://api.github.com/repos/quantopian/zipline,quantopian/zipline,"Zipline, a Pythonic Algorithmic Trading Library",Python,151,3142,3142,939,quantopian,1393215
+14681876,https://api.github.com/repos/codelucas/newspaper,codelucas/newspaper,"News, full-text, and article metadata extraction in Python 3 ",Python,28,3134,3134,427,codelucas,2288709
+6750871,https://api.github.com/repos/crsmithdev/arrow,crsmithdev/arrow,Better dates & times for Python,Python,71,2988,2988,254,crsmithdev,1596037
+11075275,https://api.github.com/repos/sloria/TextBlob,sloria/TextBlob,"Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.",Python,29,2964,2964,345,sloria,2379650
+2408911,https://api.github.com/repos/klen/python-mode,klen/python-mode,"Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.",Python,167,2958,2958,613,klen,90699
+2771544,https://api.github.com/repos/nvie/rq,nvie/rq,Simple job queues for Python,Python,94,2900,2900,575,nvie,83844
+3305986,https://api.github.com/repos/fogleman/Minecraft,fogleman/Minecraft,Simple Minecraft-inspired program using Python and Pyglet,Python,21,2899,2899,662,fogleman,520208
+7040500,https://api.github.com/repos/falconry/falcon,falconry/falcon,"Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.",Python,168,2826,2826,319,falconry,11353642
+640534,https://api.github.com/repos/sympy/sympy,sympy/sympy,A computer algebra system written in pure Python,Python,2313,2811,2811,1438,sympy,260832
+1778471,https://api.github.com/repos/Runscope/httpbin,Runscope/httpbin,"HTTP Request & Response Service, written in Python + Flask.",Python,55,2788,2788,401,Runscope,2762110
+1446467,https://api.github.com/repos/pypa/pip,pypa/pip,The PyPA recommended tool for installing Python packages,Python,670,2766,2766,1056,pypa,647025
+1421258,https://api.github.com/repos/koenbok/Cactus,koenbok/Cactus,Static site generator for designers. Uses Python and Django templates.,Python,96,2709,2709,247,koenbok,206779
+5801666,https://api.github.com/repos/gevent/gevent,gevent/gevent,Coroutine-based concurrency library for Python,Python,38,2705,2705,576,gevent,5564530
+36804486,https://api.github.com/repos/tqdm/tqdm,tqdm/tqdm,"A fast, extensible progress bar for Python",Python,18,2638,2638,101,tqdm,12731565
+119609,https://api.github.com/repos/paramiko/paramiko,paramiko/paramiko,Native Python SSHv2 protocol library,Python,268,2542,2542,717,paramiko,1108455
+42191943,https://api.github.com/repos/cyrus-and/gdb-dashboard,cyrus-and/gdb-dashboard,Modular visual interface for GDB in Python,Python,6,2522,2522,151,cyrus-and,1660263
+27574418,https://api.github.com/repos/ryanoasis/nerd-fonts,ryanoasis/nerd-fonts,":abcd: Collection of over 20 patched fonts (over 2,700 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more",Python,24,2516,2516,83,ryanoasis,8083459
+13384593,https://api.github.com/repos/yhat/ggplot,yhat/ggplot,ggplot for python,Python,232,2486,2486,319,yhat,2684181
+541456,https://api.github.com/repos/gregmalcolm/python_koans,gregmalcolm/python_koans,Python Koans - Learn Python through TDD,Python,7,2450,2450,1341,gregmalcolm,64433
+34757182,https://api.github.com/repos/donnemartin/interactive-coding-challenges,donnemartin/interactive-coding-challenges,"Continually updated, interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions.  https://bit.ly/git-code",Python,7,2407,2407,304,donnemartin,5458997
+23616394,https://api.github.com/repos/what-studio/profiling,what-studio/profiling,An interactive continuous Python profiler.,Python,4,2384,2384,83,what-studio,7566174
+2019626,https://api.github.com/repos/seatgeek/fuzzywuzzy,seatgeek/fuzzywuzzy,Fuzzy String Matching in Python,Python,9,2344,2344,235,seatgeek,447527
+2822459,https://api.github.com/repos/jeanphix/Ghost.py,jeanphix/Ghost.py,Webkit based scriptable web browser for python. ,Python,122,2304,2304,330,jeanphix,252119
+16241224,https://api.github.com/repos/jonathanslenders/python-prompt-toolkit,jonathanslenders/python-prompt-toolkit,Library for building powerful interactive command lines in Python,Python,61,2293,2293,115,jonathanslenders,216638
+9451280,https://api.github.com/repos/thearn/webcam-pulse-detector,thearn/webcam-pulse-detector,A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.,Python,15,2226,2226,314,thearn,1128468
+2866041,https://api.github.com/repos/kivy/python-for-android,kivy/python-for-android,Turn your Python application into an Android APK - build your own python and extensions,Python,126,2204,2204,505,kivy,1266152
+760165,https://api.github.com/repos/buildbot/buildbot,buildbot/buildbot,Python-based continuous integration testing framework; your pull requests are more than welcome!,Python,23,2126,2126,877,buildbot,324515
+10155460,https://api.github.com/repos/dbader/schedule,dbader/schedule,Python job scheduling for humans.,Python,24,2119,2119,209,dbader,306708
+5341895,https://api.github.com/repos/tschellenbach/Stream-Framework,tschellenbach/Stream-Framework,"Stream Framework is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.",Python,49,2067,2067,259,tschellenbach,265409
+3489194,https://api.github.com/repos/davidhalter/jedi,davidhalter/jedi,Awesome autocompletion and static analysis library for python.,Python,140,2060,2060,168,davidhalter,748594
+12052630,https://api.github.com/repos/Zulko/moviepy,Zulko/moviepy,Video editing with Python,Python,140,2049,2049,314,Zulko,1646122
+14512299,https://api.github.com/repos/worldveil/dejavu,worldveil/dejavu,Audio fingerprinting and recognition in Python,Python,17,2042,2042,370,worldveil,1045250
+10849933,https://api.github.com/repos/ajalt/fuckitpy,ajalt/fuckitpy,The Python error steamroller.,Python,3,2035,2035,86,ajalt,1109214
+1017451,https://api.github.com/repos/gorakhargosh/watchdog,gorakhargosh/watchdog,Python library and shell utilities to monitor filesystem events.,Python,92,2025,2025,257,gorakhargosh,364101
+980240,https://api.github.com/repos/kennethreitz/clint,kennethreitz/clint,Python Command-line Application Tools,Python,42,1981,1981,182,kennethreitz,119893
+4053456,https://api.github.com/repos/martinblech/xmltodict,martinblech/xmltodict,Python module that makes working with XML feel like you are working with JSON,Python,6,1967,1967,192,martinblech,78768
+9450995,https://api.github.com/repos/lihaoyi/macropy,lihaoyi/macropy,"Macros in Python: quasiquotes, case classes, LINQ and more!",Python,19,1916,1916,93,lihaoyi,934140
+7589332,https://api.github.com/repos/kachayev/fn.py,kachayev/fn.py,Functional programming in Python: implementation of missing features to enjoy FP,Python,21,1910,1910,117,kachayev,485647
+1535009,https://api.github.com/repos/kennethreitz/tablib,kennethreitz/tablib,"Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.",Python,31,1904,1904,267,kennethreitz,119893
+38782303,https://api.github.com/repos/donnemartin/dev-setup,donnemartin/dev-setup,"Mac OS X development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.  https://bit.ly/git-dotfiles",Python,6,1879,1879,270,donnemartin,5458997
+9360778,https://api.github.com/repos/wrobstory/vincent,wrobstory/vincent,A Python to Vega translator,Python,34,1841,1841,192,wrobstory,2601457
+29792543,https://api.github.com/repos/jonathanslenders/pyvim,jonathanslenders/pyvim,Pure Python Vim clone.,Python,44,1806,1806,110,jonathanslenders,216638
+25280332,https://api.github.com/repos/NervanaSystems/neon,NervanaSystems/neon,"Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana",Python,30,1793,1793,359,NervanaSystems,9260121
+3659275,https://api.github.com/repos/numba/numba,numba/numba,NumPy aware dynamic Python compiler using LLVM,Python,192,1791,1791,193,numba,1628082
+15532991,https://api.github.com/repos/houtianze/bypy,houtianze/bypy,Python client for Baidu Yun (Personal Cloud Storage) /Python,Python,46,1748,1748,545,houtianze,99046
+3991627,https://api.github.com/repos/douban/dpark,douban/dpark,"Python clone of Spark,  a MapReduce alike framework in Python",Python,9,1734,1734,404,douban,1220164
+108051,https://api.github.com/repos/mongodb/mongo-python-driver,mongodb/mongo-python-driver,PyMongo - the Python driver for MongoDB,Python,7,1693,1693,657,mongodb,45120
+3540290,https://api.github.com/repos/0rpc/zerorpc-python,0rpc/zerorpc-python,zerorpc for python,Python,7,1668,1668,193,0rpc,12478417
+2280086,https://api.github.com/repos/kennethreitz/envoy,kennethreitz/envoy,Python Subprocesses for Humans.,Python,11,1666,1666,106,kennethreitz,119893
+9952134,https://api.github.com/repos/python-visualization/folium,python-visualization/folium,Python Data. Leaflet.js Maps. ,Python,42,1666,1666,214,python-visualization,9969242
+19452228,https://api.github.com/repos/DTVD/rainbowstream,DTVD/rainbowstream,A smart and nice Twitter client on terminal written in Python.,Python,57,1660,1660,161,DTVD,479796
+2114213,https://api.github.com/repos/PyMySQL/PyMySQL,PyMySQL/PyMySQL,Pure Python MySQL Client,Python,35,1644,1644,382,PyMySQL,5338312
+1733272,https://api.github.com/repos/mobolic/facebook-sdk,mobolic/facebook-sdk,Facebook Platform Python SDK,Python,22,1639,1639,618,mobolic,13390096
+2897853,https://api.github.com/repos/burnash/gspread,burnash/gspread,Google Spreadsheets Python API,Python,98,1636,1636,313,burnash,264674
+1446474,https://api.github.com/repos/pypa/virtualenv,pypa/virtualenv,Virtual Python Environment builder,Python,304,1629,1629,419,pypa,647025
+2466605,https://api.github.com/repos/wuub/SublimeREPL,wuub/SublimeREPL,"SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)",Python,211,1629,1629,244,wuub,588857
+1099265,https://api.github.com/repos/cython/cython,cython/cython,A Python to C compiler,Python,37,1617,1617,385,cython,486082
+90981,https://api.github.com/repos/sixohsix/twitter,sixohsix/twitter,Python Twitter API,Python,51,1584,1584,382,sixohsix,40615
+324077,https://api.github.com/repos/PyCQA/pycodestyle,PyCQA/pycodestyle,Simple Python style checker in one Python file,Python,81,1570,1570,346,PyCQA,8749848
+5746963,https://api.github.com/repos/nvie/pip-tools,nvie/pip-tools,A set of tools to keep your pinned Python dependencies fresh.,Python,50,1557,1557,141,nvie,83844
+1199632,https://api.github.com/repos/schematics/schematics,schematics/schematics,Python Data Structures for Humans.,Python,33,1551,1551,198,schematics,7866441
+20101515,https://api.github.com/repos/giampaolo/psutil,giampaolo/psutil,A cross-platform process and system utilities module for Python,Python,83,1533,1533,249,giampaolo,681260
+32481278,https://api.github.com/repos/brennerm/PyTricks,brennerm/PyTricks,Collection of less popular features and tricks for the Python programming language,Python,13,1505,1505,231,brennerm,5527832
+1161119,https://api.github.com/repos/euske/pdfminer,euske/pdfminer,Python PDF Parser,Python,97,1471,1471,388,euske,143989
+11787148,https://api.github.com/repos/jaredks/rumps,jaredks/rumps,Ridiculously Uncomplicated Mac os x Python Statusbar apps,Python,31,1456,1456,79,jaredks,4401907
+37883782,https://api.github.com/repos/stitchfix/pyxley,stitchfix/pyxley,Python helpers for building dashboards using Flask and React,Python,17,1422,1422,148,stitchfix,1749260
+5499296,https://api.github.com/repos/nryoung/algorithms,nryoung/algorithms,An educational library of algorithms in Python,Python,3,1416,1416,361,nryoung,1323750
+10247874,https://api.github.com/repos/docker/docker-py,docker/docker-py,An API client for docker written in Python,Python,89,1416,1416,554,docker,5429470
+3602702,https://api.github.com/repos/litl/rauth,litl/rauth,"A Python library for OAuth 1.0/a, 2.0, and Ofly.",Python,17,1412,1412,148,litl,190361
+1885237,https://api.github.com/repos/statsmodels/statsmodels,statsmodels/statsmodels,Statsmodels: statistical modeling and econometrics in Python,Python,1247,1409,1409,679,statsmodels,717666
+956411,https://api.github.com/repos/utahta/pythonbrew,utahta/pythonbrew,Python Environment manager,Python,64,1406,1406,192,utahta,97572
+1318988,https://api.github.com/repos/facebookarchive/python-instagram,facebookarchive/python-instagram,Python Client for Instagram API,Python,86,1379,1379,601,facebookarchive,7560860
+7184072,https://api.github.com/repos/hylang/hy,hylang/hy,A dialect of Lisp that's embedded in Python,Python,162,1379,1379,176,hylang,4141508
+13086750,https://api.github.com/repos/luispedro/BuildingMachineLearningSystemsWithPython,luispedro/BuildingMachineLearningSystemsWithPython,Source Code for the book Building Machine Learning Systems with Python,Python,0,1372,1372,717,luispedro,79334
+7106468,https://api.github.com/repos/prakhar1989/Algorithms,prakhar1989/Algorithms,:computer: Data Structures and Algorithms in Python,Python,6,1358,1358,287,prakhar1989,649249
+18144573,https://api.github.com/repos/google/pyringe,google/pyringe,Debugger capable of attaching to and injecting code into python processes.,Python,12,1355,1355,48,google,1342004
+42845822,https://api.github.com/repos/eastlakeside/interpy-zh,eastlakeside/interpy-zh,PythonIntermediate Python ,Python,4,1347,1347,254,eastlakeside,1326896
+20180433,https://api.github.com/repos/hickford/MechanicalSoup,hickford/MechanicalSoup,A Python library for automating interaction with websites.,Python,8,1337,1337,59,hickford,105314
+1206729,https://api.github.com/repos/hhatto/autopep8,hhatto/autopep8,A tool that automatically formats Python code to conform to the PEP 8 style guide.,Python,13,1336,1336,113,hhatto,150309
+788264,https://api.github.com/repos/zeromq/pyzmq,zeromq/pyzmq,PyZMQ:  Python bindings for zeromq,Python,26,1309,1309,316,zeromq,109777
+2443236,https://api.github.com/repos/Kozea/pygal,Kozea/pygal,PYthon svg GrAph plotting Library,Python,48,1292,1292,261,Kozea,870325
+29103466,https://api.github.com/repos/amoffat/snake,amoffat/snake,Full Python Scripting in Vim,Python,5,1289,1289,46,amoffat,259113
+14715502,https://api.github.com/repos/isnowfy/snownlp,isnowfy/snownlp,Python library for processing Chinese text,Python,3,1288,1288,364,isnowfy,596274
+3626679,https://api.github.com/repos/MongoEngine/mongoengine,MongoEngine/mongoengine,A Python Object-Document-Mapper for working with MongoDB,Python,311,1287,1287,729,MongoEngine,1502485
+20206631,https://api.github.com/repos/antiboredom/videogrep,antiboredom/videogrep,automatic video supercuts with python,Python,23,1283,1283,92,antiboredom,344861
+1229101,https://api.github.com/repos/hyde/hyde,hyde/hyde,A Python Static Website Generator,Python,61,1277,1277,226,hyde,374679
+42882329,https://api.github.com/repos/n1nj4sec/pupy,n1nj4sec/pupy,"Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android) Remote Administration Tool with an embedded Python interpreter.",Python,8,1275,1275,280,n1nj4sec,12549318
+11226488,https://api.github.com/repos/rochacbruno/quokka,rochacbruno/quokka,"CMS (Content Management System) - Python, Flask and MongoDB",Python,77,1256,1256,278,rochacbruno,458654
+11730622,https://api.github.com/repos/charlierguo/gmail,charlierguo/gmail,A Pythonic interface for Google Mail,Python,45,1251,1251,218,charlierguo,591878
+24589695,https://api.github.com/repos/jonathanslenders/ptpython,jonathanslenders/ptpython,A better Python REPL,Python,43,1245,1245,50,jonathanslenders,216638
+7053637,https://api.github.com/repos/python/mypy,python/mypy,Optional static typing for Python,Python,365,1245,1245,147,python,1525981
+1257514,https://api.github.com/repos/quantmind/pulsar,quantmind/pulsar,Event driven framework for python,Python,9,1236,1236,85,quantmind,144099
+5776030,https://api.github.com/repos/bear/python-twitter,bear/python-twitter,A Python wrapper around the Twitter API.,Python,28,1218,1218,476,bear,1267
+4162667,https://api.github.com/repos/kennethreitz/inbox.py,kennethreitz/inbox.py,Python SMTP Server for Humans,Python,1,1214,1214,77,kennethreitz,119893
+14437755,https://api.github.com/repos/getsentry/responses,getsentry/responses,A utility for mocking out the Python Requests library.,Python,36,1212,1212,105,getsentry,1396951
+32921926,https://api.github.com/repos/thampiman/reverse-geocoder,thampiman/reverse-geocoder,"A fast, offline reverse geocoder in Python",Python,3,1208,1208,58,thampiman,185084
+1643611,https://api.github.com/repos/daviddrysdale/python-phonenumbers,daviddrysdale/python-phonenumbers,Python port of Google's libphonenumber,Python,1,1195,1195,160,daviddrysdale,457208
+1864233,https://api.github.com/repos/frappe/erpnext,frappe/erpnext,"Open Source ERP built for the Web. Uses Python, MariaDB.",Python,959,1194,1194,708,frappe,836974
+1303056,https://api.github.com/repos/gabrielfalcao/HTTPretty,gabrielfalcao/HTTPretty,"HTTP client mocking tool for Python, it's like ruby's FakeWeb for python",Python,114,1184,1184,179,gabrielfalcao,54914
+1985358,https://api.github.com/repos/twisted/twisted,twisted/twisted,Event-driven networking engine written in Python.,Python,2,1174,1174,341,twisted,716546
+648127,https://api.github.com/repos/tschellenbach/Django-facebook,tschellenbach/Django-facebook,Facebook open graph api implementation using the Django web framework in python,Python,111,1174,1174,481,tschellenbach,265409
+8685799,https://api.github.com/repos/HypothesisWorks/hypothesis-python,HypothesisWorks/hypothesis-python,Hypothesis for Python. By far the most advanced current implementation.,Python,64,1168,1168,116,HypothesisWorks,18481919
+28620211,https://api.github.com/repos/kragniz/json-sempai,kragniz/json-sempai,Use JSON files as if they are python modules,Python,14,1159,1159,45,kragniz,735008
+6256036,https://api.github.com/repos/imwilsonxu/fbone,imwilsonxu/fbone,Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.,Python,27,1156,1156,211,imwilsonxu,368066
+165892,https://api.github.com/repos/ryanmcgrath/twython,ryanmcgrath/twython,"Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.",Python,44,1155,1155,301,ryanmcgrath,22712
+23095149,https://api.github.com/repos/yidao620c/python3-cookbook,yidao620c/python3-cookbook,Python Cookbook 3rd Edition Translation,Python,16,1152,1152,396,yidao620c,1510785
+6536534,https://api.github.com/repos/amueller/word_cloud,amueller/word_cloud,A little word cloud generator in Python,Python,37,1149,1149,328,amueller,449558
+3587206,https://api.github.com/repos/pyinvoke/invoke,pyinvoke/invoke,Simple Python task execution,Python,105,1144,1144,108,pyinvoke,1486921
+7137821,https://api.github.com/repos/cloudtools/troposphere,cloudtools/troposphere,troposphere - Python library to create AWS CloudFormation descriptions,Python,47,1140,1140,339,cloudtools,3028687
+31199458,https://api.github.com/repos/qiwsir/StarterLearningPython,qiwsir/StarterLearningPython,Learning Python: from Beginner to Master. http://www.itdiffer.com,Python,21,1139,1139,595,qiwsir,3646955
+14549208,https://api.github.com/repos/hannes-brt/hebel,hannes-brt/hebel,GPU-Accelerated Deep Learning Library in Python,Python,3,1136,1136,104,hannes-brt,323139
+1755413,https://api.github.com/repos/xhtml2pdf/xhtml2pdf,xhtml2pdf/xhtml2pdf,HTML/CSS to PDF converter based on Python,Python,80,1121,1121,410,xhtml2pdf,13963603
+39821165,https://api.github.com/repos/madisonmay/Tomorrow,madisonmay/Tomorrow,Magic decorator syntax for asynchronous code in Python,Python,4,1120,1120,64,madisonmay,2645393
+27806545,https://api.github.com/repos/mewwts/addict,mewwts/addict,The Python Dict that's better than heroin.,Python,4,1119,1119,47,mewwts,1848670
+1124202,https://api.github.com/repos/dlitz/pycrypto,dlitz/pycrypto,The Python Cryptography Toolkit,Python,109,1117,1117,288,dlitz,99377
+12236329,https://api.github.com/repos/goldsmith/Wikipedia,goldsmith/Wikipedia,A Pythonic wrapper for the Wikipedia API,Python,49,1111,1111,215,goldsmith,3344078
+2022403,https://api.github.com/repos/mikedewar/d3py,mikedewar/d3py,"a plottling library for python, based on D3",Python,48,1103,1103,172,mikedewar,149211
+2113510,https://api.github.com/repos/crossbario/autobahn-python,crossbario/autobahn-python,WebSocket & WAMP for Python on Twisted and asyncio,Python,82,1102,1102,356,crossbario,5656948
+72690,https://api.github.com/repos/web2py/web2py,web2py/web2py,"Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python.",Python,116,1091,1091,582,web2py,33118
+921367,https://api.github.com/repos/cobrateam/splinter,cobrateam/splinter,splinter - python test framework for web applications ,Python,165,1089,1089,259,cobrateam,403905
+12799539,https://api.github.com/repos/pytoolz/toolz,pytoolz/toolz,A functional standard library for Python.,Python,44,1086,1086,81,pytoolz,5448828
+14284859,https://api.github.com/repos/marshmallow-code/marshmallow,marshmallow-code/marshmallow,A lightweight library for converting complex objects to and from simple Python datatypes.,Python,57,1077,1077,129,marshmallow-code,10334301
+547504,https://api.github.com/repos/geopy/geopy,geopy/geopy,Geocoding library for Python.,Python,47,1069,1069,262,geopy,1385808
+1310572,https://api.github.com/repos/trentm/python-markdown2,trentm/python-markdown2,markdown2: A fast and complete implementation of Markdown in Python,Python,64,1064,1064,159,trentm,46866
+11563368,https://api.github.com/repos/DamnWidget/anaconda,DamnWidget/anaconda,"Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3",Python,82,1040,1040,112,DamnWidget,329766
+2410676,https://api.github.com/repos/shazow/urllib3,shazow/urllib3,"Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.",Python,99,1027,1027,332,shazow,6292
+11939484,https://api.github.com/repos/pyca/cryptography,pyca/cryptography,cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.,Python,84,1027,1027,239,pyca,5615737
+30892477,https://api.github.com/repos/spyder-ide/spyder,spyder-ide/spyder,Official repository for Spyder - The Scientific PYthon Development EnviRonment,Python,638,1026,1026,256,spyder-ide,1284937
+5282021,https://api.github.com/repos/longld/peda,longld/peda,PEDA - Python Exploit Development Assistance for GDB,Python,24,1012,1012,228,longld,38460
+55692867,https://api.github.com/repos/traverseda/pycraft,traverseda/pycraft,"A fork of ""Minecraft in 500 lines of python"" intended to be used as a real engine, instead of as a learning example.",Python,21,1011,1011,102,traverseda,2125828
+47476,https://api.github.com/repos/qtile/qtile,qtile/qtile,":cookie: A small, flexible, scriptable tiling window manager written in Python",Python,97,1004,1004,276,qtile,1424964
+1248263,https://api.github.com/repos/kanaka/websockify,kanaka/websockify,"Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.",Python,45,1002,1002,209,kanaka,70127
+24774658,https://api.github.com/repos/boto/boto3,boto/boto3,AWS SDK for Python,Python,79,998,998,195,boto,327752
+2359761,https://api.github.com/repos/lmacken/pyrasite,lmacken/pyrasite,Inject code into running Python processes,Python,17,993,993,72,lmacken,9980
+577245,https://api.github.com/repos/gabrielfalcao/lettuce,gabrielfalcao/lettuce,Cucumber-ish BDD for python,Python,87,991,991,290,gabrielfalcao,54914
+1126087,https://api.github.com/repos/gitpython-developers/GitPython,gitpython-developers/GitPython,GitPython is a python library used to interact with Git repositories.,Python,28,987,987,278,gitpython-developers,503709
+847957,https://api.github.com/repos/praw-dev/praw,praw-dev/praw,"PRAW, an acronym for ""Python Reddit API Wrapper"", is a python package that allows for simple access to reddit's API.",Python,42,972,972,201,praw-dev,1696888
+25372,https://api.github.com/repos/klbostee/dumbo,klbostee/dumbo,Python module that allows one to easily write and run Hadoop programs.,Python,33,965,965,159,klbostee,13755
+6422710,https://api.github.com/repos/mothran/mongol,mothran/mongol,A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China. ,Python,1,965,965,233,mothran,2153856
+342869,https://api.github.com/repos/pika/pika,pika/pika,Pure Python RabbitMQ/AMQP 0-9-1 client library,Python,24,963,963,353,pika,660428
+19387849,https://api.github.com/repos/Parsely/streamparse,Parsely/streamparse,streamparse lets you run Python code against real-time streams of data with Apache Storm.,Python,29,961,961,134,Parsely,779641
+19918845,https://api.github.com/repos/jamesmawm/High-Frequency-Trading-Model-with-IB,jamesmawm/High-Frequency-Trading-Model-with-IB,A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python,Python,2,948,948,211,jamesmawm,7599006
+2527828,https://api.github.com/repos/getsentry/raven-python,getsentry/raven-python,Raven is a Python client for Sentry (getsentry.com),Python,79,940,940,585,getsentry,1396951
+2974718,https://api.github.com/repos/nose-devs/nose,nose-devs/nose,nose is nicer testing for python,Python,373,935,935,286,nose-devs,1263082
+463405,https://api.github.com/repos/fritzy/SleekXMPP,fritzy/SleekXMPP,Python 2.6+/3.1+ XMPP Library,Python,82,932,932,230,fritzy,91213
+15647547,https://api.github.com/repos/justinmeister/Mario-Level-1,justinmeister/Mario-Level-1,The first level of Super Mario Bros made with Python and Pygame.,Python,7,929,929,202,justinmeister,5325552
+16433838,https://api.github.com/repos/jonathanslenders/pymux,jonathanslenders/pymux,A terminal multiplexer (like tmux) in Python,Python,14,928,928,48,jonathanslenders,216638
+6909307,https://api.github.com/repos/gawel/pyquery,gawel/pyquery,A jquery-like library for python,Python,38,920,920,90,gawel,118673
+14579099,https://api.github.com/repos/plotly/plotly.py,plotly/plotly.py,the browser-based graphing library for python,Python,132,916,916,229,plotly,5997976
+4362010,https://api.github.com/repos/gutomaia/pyNES,gutomaia/pyNES,Python programming for Nintendo 8 bits,Python,18,913,913,90,gutomaia,153288
+14381385,https://api.github.com/repos/mailgun/flanker,mailgun/flanker,Python email address and Mime parsing library,Python,32,911,911,84,mailgun,447686
+786406,https://api.github.com/repos/djacobs/PyAPNs,djacobs/PyAPNs,Python library for interacting with the Apple Push Notification service (APNs),Python,51,904,904,297,djacobs,42236
+23612831,https://api.github.com/repos/zoofIO/flexx,zoofIO/flexx,Python UI tookit based on web technology ,Python,22,903,903,84,zoofIO,8639587
+51553740,https://api.github.com/repos/joealcorn/laboratory,joealcorn/laboratory,A Python library for carefully refactoring critical paths (and a port of Github's Scientist),Python,1,900,900,16,joealcorn,1097349
+156187,https://api.github.com/repos/jelmer/dulwich,jelmer/dulwich,Pure-Python Git implementation,Python,30,892,892,204,jelmer,49032
+353831,https://api.github.com/repos/defunkt/pystache,defunkt/pystache,Mustache in Python,Python,38,890,890,191,defunkt,2
+81384,https://api.github.com/repos/IronLanguages/main,IronLanguages/main,Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.,Python,979,886,886,316,IronLanguages,18199
+790576,https://api.github.com/repos/getlogbook/logbook,getlogbook/logbook,A cool logging replacement for Python.,Python,8,882,882,111,getlogbook,15702495
+675835,https://api.github.com/repos/scipy-lectures/scipy-lecture-notes,scipy-lectures/scipy-lecture-notes,Tutorial material on the scientific Python ecosystem,Python,36,880,880,399,scipy-lectures,553084
+22761348,https://api.github.com/repos/wechat-python-sdk/wechat-python-sdk,wechat-python-sdk/wechat-python-sdk, Python  (wechat-python-sdk),Python,17,878,878,342,wechat-python-sdk,16562178
+20209549,https://api.github.com/repos/fengsp/plan,fengsp/plan,Crontab jobs management in Python,Python,2,874,874,63,fengsp,2986070
+2703394,https://api.github.com/repos/coleifer/huey,coleifer/huey,a little task queue for python,Python,3,871,871,86,coleifer,119974
+24176420,https://api.github.com/repos/andersbll/deeppy,andersbll/deeppy,Deep learning in Python,Python,13,868,868,140,andersbll,177245
+24046239,https://api.github.com/repos/brython-dev/brython,brython-dev/brython,Brython (Browser Python) is an implementation of Python 3 running in the browser,Python,45,868,868,102,brython-dev,8774340
+3186075,https://api.github.com/repos/kartograph/kartograph.py,kartograph/kartograph.py,Renders beautiful SVG maps in Python.,Python,63,858,858,169,kartograph,1201535
+16690938,https://api.github.com/repos/thomasahle/sunfish,thomasahle/sunfish,Sunfish: a Python Chess Engine in 111 lines of code,Python,7,856,856,141,thomasahle,946355
+2418165,https://api.github.com/repos/Cue/scales,Cue/scales,scales - Metrics for Python,Python,8,853,853,64,Cue,449000
+2747590,https://api.github.com/repos/lincolnloop/python-qrcode,lincolnloop/python-qrcode,Python QR Code image generator,Python,7,848,848,194,lincolnloop,1964
+15938073,https://api.github.com/repos/JelteF/PyLaTeX,JelteF/PyLaTeX,A Python library for creating LaTeX files,Python,10,847,847,98,JelteF,1162278
+5934517,https://api.github.com/repos/dpkp/kafka-python,dpkp/kafka-python,Python client for Apache Kafka,Python,42,846,846,379,dpkp,843444
+3873687,https://api.github.com/repos/jesolem/PCV,jesolem/PCV,Open source Python module for computer vision,Python,14,846,846,263,jesolem,136751
+11188320,https://api.github.com/repos/cdhigh/KindleEar,cdhigh/KindleEar,"A website application running in Google app engine, deliver rss news to your kindle. generate mobi by using python, multilanguages supported.",Python,4,835,835,288,cdhigh,2580077
+5473383,https://api.github.com/repos/keleshev/schema,keleshev/schema,Schema validation just got Pythonic,Python,25,830,830,73,keleshev,619158
+1726797,https://api.github.com/repos/kliment/Printrun,kliment/Printrun,"Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software",Python,121,830,830,515,kliment,228211
+3544490,https://api.github.com/repos/PyGithub/PyGithub,PyGithub/PyGithub,Python library implementing the GitHub API v3,Python,53,827,827,269,PyGithub,11288996
+419555,https://api.github.com/repos/apache/libcloud,apache/libcloud,Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API,Python,20,818,818,517,apache,47359
+9801644,https://api.github.com/repos/elastic/elasticsearch-py,elastic/elasticsearch-py,Official Python low-level client for Elasticsearch.,Python,9,816,816,332,elastic,6764390
+8431589,https://api.github.com/repos/onefinestay/nameko,onefinestay/nameko,Python framework for building microservices,Python,29,809,809,62,onefinestay,634153
+374257,https://api.github.com/repos/binarydud/pyres,binarydud/pyres,a resque clone in python,Python,20,808,808,118,binarydud,1635
+3072629,https://api.github.com/repos/Julian/jsonschema,Julian/jsonschema,An(other) implementation of JSON Schema for Python,Python,16,802,802,157,Julian,329822
+11537118,https://api.github.com/repos/shea256/angular-flask,shea256/angular-flask,An AngularJS (frontend) + Flask / Python (backend) Boilerplate Application,Python,6,801,801,182,shea256,994646
+17446726,https://api.github.com/repos/elastic/elasticsearch-dsl-py,elastic/elasticsearch-dsl-py,High level Python client for Elasticsearch,Python,11,800,800,187,elastic,6764390
+4087724,https://api.github.com/repos/datamade/dedupe,datamade/dedupe,:id: A python library for accurate and scaleable data deduplication and entity-resolution.,Python,6,800,800,110,datamade,3723931
+735498,https://api.github.com/repos/celery/kombu,celery/kombu,Messaging library for Python.,Python,90,796,796,337,celery,319983
+23512354,https://api.github.com/repos/rkern/line_profiler,rkern/line_profiler,Line-by-line profiling for Python,Python,30,787,787,53,rkern,46135
+38696925,https://api.github.com/repos/python-telegram-bot/python-telegram-bot,python-telegram-bot/python-telegram-bot,A Python wrapper around the Telegram Bot API.,Python,6,783,783,181,python-telegram-bot,16178365
+13451234,https://api.github.com/repos/spotify/dh-virtualenv,spotify/dh-virtualenv,Python virtualenvs in Debian packages,Python,17,781,781,79,spotify,251374
+19057465,https://api.github.com/repos/Uberi/speech_recognition,Uberi/speech_recognition,"Speech recognition module for Python, supporting several engines and APIs, online and offline.",Python,16,778,778,217,Uberi,437196
+29620400,https://api.github.com/repos/scopatz/xonsh,scopatz/xonsh,"xonsh is a Python-ish, BASHwards-facing shell.",Python,115,776,776,89,scopatz,320553
+4932591,https://api.github.com/repos/bdarnell/plop,bdarnell/plop,Python Low-Overhead Profiler,Python,2,769,769,55,bdarnell,160562
+3023130,https://api.github.com/repos/halgari/clojure-py,halgari/clojure-py,A implementation of Clojure in pure (dynamic) Python,Python,37,759,759,69,halgari,654621
+2337852,https://api.github.com/repos/hyperopt/hyperopt,hyperopt/hyperopt,Distributed Asynchronous Hyperparameter Optimization in Python,Python,100,758,758,179,hyperopt,5280805
+4735806,https://api.github.com/repos/michaelliao/sinaweibopy,michaelliao/sinaweibopy,Python SDK,Python,3,757,757,418,michaelliao,470058
+1239728,https://api.github.com/repos/DataBrewery/cubes,DataBrewery/cubes,Light-weight Python OLAP framework for multi-dimensional data analysis,Python,99,756,756,169,DataBrewery,2761483
+1353927,https://api.github.com/repos/lxml/lxml,lxml/lxml,The lxml XML toolkit for Python,Python,19,755,755,204,lxml,612230
+22529973,https://api.github.com/repos/pybee/toga,pybee/toga,"A Python native, OS native GUI toolkit.",Python,12,755,755,54,pybee,5001767
+3706909,https://api.github.com/repos/nickstenning/honcho,nickstenning/honcho,Honcho: a python clone of Foreman. For managing Procfile-based applications.,Python,4,753,753,86,nickstenning,3602
+1408162,https://api.github.com/repos/jpadilla/pyjwt,jpadilla/pyjwt,JSON Web Token implementation in Python,Python,20,748,748,124,jpadilla,83319
+2575826,https://api.github.com/repos/fabianp/memory_profiler,fabianp/memory_profiler,Monitor Memory usage of Python code,Python,24,742,742,100,fabianp,277639
+7106250,https://api.github.com/repos/spulec/freezegun,spulec/freezegun,Let your Python tests travel through time,Python,13,729,729,78,spulec,292606
+7433211,https://api.github.com/repos/jmcnamara/XlsxWriter,jmcnamara/XlsxWriter,A Python module for creating Excel XLSX files.,Python,17,729,729,160,jmcnamara,94267
+29848246,https://api.github.com/repos/Maratyszcza/PeachPy,Maratyszcza/PeachPy,x86-64 assembler embedded in Python,Python,9,729,729,29,Maratyszcza,1093985
+41750397,https://api.github.com/repos/andersbll/neural_artistic_style,andersbll/neural_artistic_style,Neural Artistic Style in Python,Python,14,728,728,134,andersbll,177245
+2927833,https://api.github.com/repos/mrjoes/sockjs-tornado,mrjoes/sockjs-tornado,WebSocket emulation - Python server,Python,27,723,723,124,mrjoes,179880
+406309,https://api.github.com/repos/miracle2k/webassets,miracle2k/webassets,Asset management for Python web development.,Python,48,723,723,213,miracle2k,13807
+37035723,https://api.github.com/repos/compjour/search-script-scrape,compjour/search-script-scrape,101 real world web scraping exercises in Python 3 for data journalists,Python,0,710,710,105,compjour,11401502
+34139230,https://api.github.com/repos/cloudera/ibis,cloudera/ibis,"Big data the Pythonic way. Productivity-centric Python data analysis framework for Analytic SQL and Hadoop, with high performance extensions for Impala. Co-founded by the creator of pandas",Python,218,702,702,83,cloudera,87383
+2642784,https://api.github.com/repos/behave/behave,behave/behave,"BDD, Python style.",Python,54,700,700,217,behave,3344102
+654608,https://api.github.com/repos/joblib/joblib,joblib/joblib,Python function as pipeline jobs.,Python,92,694,694,108,joblib,332661
+3644516,https://api.github.com/repos/gbeced/pyalgotrade,gbeced/pyalgotrade,Python Algorithmic Trading Library,Python,15,691,691,328,gbeced,1163917
+45495679,https://api.github.com/repos/rhiever/tpot,rhiever/tpot,A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.,Python,31,688,688,84,rhiever,1719223
+8946089,https://api.github.com/repos/ReactiveX/RxPY,ReactiveX/RxPY,Reactive Extensions for Python,Python,15,684,684,74,ReactiveX,6407041
+18849552,https://api.github.com/repos/robdmc/pandashells,robdmc/pandashells,:panda_face: Bringing the python data stack to the shell prompt,Python,6,682,682,23,robdmc,417837
+8277372,https://api.github.com/repos/spulec/moto,spulec/moto,Moto is a library that allows your python tests to easily mock out the boto library,Python,60,680,680,228,spulec,292606
+2881789,https://api.github.com/repos/geekcomputers/Python,geekcomputers/Python,My Python Examples,Python,22,679,679,684,geekcomputers,1170130
+51836040,https://api.github.com/repos/StijnMiroslav/top-starred-devs-and-repos-to-follow,StijnMiroslav/top-starred-devs-and-repos-to-follow,"The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)",Python,0,676,676,35,StijnMiroslav,13305104
+535712,https://api.github.com/repos/urwid/urwid,urwid/urwid,Console user interface library for Python (official repo),Python,74,674,674,118,urwid,6749304
+12398170,https://api.github.com/repos/tony/tmuxp,tony/tmuxp,:computer: tmux session manager and python library,Python,50,671,671,70,tony,26336
+8073983,https://api.github.com/repos/peterhudec/authomatic,peterhudec/authomatic,Simple yet powerful authorization / authentication client library for Python web applications.,Python,71,670,670,348,peterhudec,2333157
+1633641,https://api.github.com/repos/muricoca/crab,muricoca/crab,"Crab is a exible, fast recommender engine for Python that integrates classic information ltering recommendation algorithms in the world of scientic Python packages (numpy, scipy, matplotlib).",Python,41,666,666,251,muricoca,723881
+11802259,https://api.github.com/repos/Komodo/KomodoEdit,Komodo/KomodoEdit,"Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.",Python,445,665,665,152,Komodo,5132872
+14191712,https://api.github.com/repos/ckreibich/scholar.py,ckreibich/scholar.py,"A parser for Google Scholar, written in Python",Python,52,660,660,319,ckreibich,493785
+10589864,https://api.github.com/repos/eliben/pycparser,eliben/pycparser,:snake: Complete C99 parser in pure Python,Python,12,659,659,160,eliben,1130906
+2175859,https://api.github.com/repos/Lawouach/WebSocket-for-Python,Lawouach/WebSocket-for-Python,WebSocket client and server library for Python 2 and 3 as well as PyPy (ws4py 0.3.4),Python,43,659,659,158,Lawouach,769982
+43982620,https://api.github.com/repos/MagicStack/MagicPython,MagicStack/MagicPython,"Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!",Python,8,655,655,13,MagicStack,14324950
+43056951,https://api.github.com/repos/graphql-python/graphene,graphql-python/graphene,GraphQL framework for Python,Python,20,645,645,59,graphql-python,15002022
+9428060,https://api.github.com/repos/isnowfy/pydown,isnowfy/pydown,An HTML5 presentation builder written by python,Python,0,641,641,69,isnowfy,596274
+16944764,https://api.github.com/repos/lepture/mistune,lepture/mistune,"The fastest markdown parser in pure Python with renderer feature, inspired by marked and misaka.",Python,14,638,638,55,lepture,290496
+5891360,https://api.github.com/repos/rubik/radon,rubik/radon,Various code metrics for Python code,Python,2,635,635,34,rubik,238549
+31502883,https://api.github.com/repos/wooey/Wooey,wooey/Wooey,A Django app which creates automatic web UIs for Python scripts.,Python,31,633,633,51,wooey,12966182
+1333666,https://api.github.com/repos/simplejson/simplejson,simplejson/simplejson,"simplejson is a simple, fast, extensible JSON encoder/decoder for Python ",Python,2,630,630,184,simplejson,602889
+7576029,https://api.github.com/repos/hit9/PyZh,hit9/PyZh,PythonPython - readthedocsPython,Python,1,629,629,217,hit9,1687443
+310309,https://api.github.com/repos/adamn/python-webkit2png,adamn/python-webkit2png,Python script that takes screenshots (browsershots) using webkit,Python,13,629,629,140,adamn,62154
+6127047,https://api.github.com/repos/python/pythondotorg,python/pythondotorg,Source code for python.org,Python,135,628,628,203,python,1525981
+307447,https://api.github.com/repos/twilio/twilio-python,twilio/twilio-python,A Python module for communicating with the Twilio API and generating TwiML. Need help? Post your questions to http://getsatisfaction.com/twilio or email us at help@twilio.com,Python,13,628,628,240,twilio,109142
+11823122,https://api.github.com/repos/eBay/bayesian-belief-networks,eBay/bayesian-belief-networks,"Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions.",Python,4,627,627,119,eBay,3639281
+4067434,https://api.github.com/repos/andialbrecht/sqlparse,andialbrecht/sqlparse,A non-validating SQL parser module for Python,Python,48,626,626,147,andialbrecht,25632
+589189,https://api.github.com/repos/ahupp/python-magic,ahupp/python-magic,A python wrapper for libmagic,Python,19,624,624,97,ahupp,40594
+1464713,https://api.github.com/repos/mirumee/satchless,mirumee/satchless,E-commerce for Python,Python,2,621,621,104,mirumee,170574
+6241108,https://api.github.com/repos/srusskih/SublimeJEDI,srusskih/SublimeJEDI,awesome Python autocompletion with SublimeText,Python,35,621,621,63,srusskih,340727
+11579941,https://api.github.com/repos/martinrusev/imbox,martinrusev/imbox,Python IMAP for Human beings,Python,22,618,618,82,martinrusev,103003
+25875083,https://api.github.com/repos/cea-sec/miasm,cea-sec/miasm,Reverse engineering framework in Python,Python,21,614,614,92,cea-sec,5071925
+11407567,https://api.github.com/repos/audreyr/cookiecutter-pypackage,audreyr/cookiecutter-pypackage,Cookiecutter template for a Python package.,Python,10,613,613,382,audreyr,74739
+12550138,https://api.github.com/repos/timothycrosley/isort,timothycrosley/isort,A Python utility / library to sort imports.,Python,19,612,612,97,timothycrosley,2090154
+11192524,https://api.github.com/repos/FriendCode/gittle,FriendCode/gittle,Pythonic Git for Humans,Python,30,608,608,71,FriendCode,4488087
+5150954,https://api.github.com/repos/pybuilder/pybuilder,pybuilder/pybuilder,Continuous build tool for Python.,Python,38,608,608,133,pybuilder,2026607
+38226908,https://api.github.com/repos/nvdv/vprof,nvdv/vprof,Visual Python profiler,Python,13,607,607,27,nvdv,745431
+4222916,https://api.github.com/repos/kvh/ramp,kvh/ramp,Rapid Machine Learning Prototyping in Python,Python,9,605,605,72,kvh,616339
+274559,https://api.github.com/repos/gak/pycallgraph,gak/pycallgraph,pycallgraph is a Python module that creates call graphs for Python programs.,Python,32,604,604,100,gak,31338
+3885342,https://api.github.com/repos/saghul/pythonz,saghul/pythonz,"Python installation manager supporting CPython, Stackless, PyPy and Jython",Python,6,603,603,59,saghul,317464
+2725322,https://api.github.com/repos/erikrose/blessings,erikrose/blessings,"A thin, practical wrapper around terminal capabilities in Python",Python,29,603,603,40,erikrose,295816
+7747140,https://api.github.com/repos/rholder/retrying,rholder/retrying,"Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.",Python,23,595,595,64,rholder,734150
+17720394,https://api.github.com/repos/joerick/pyinstrument,joerick/pyinstrument,Call stack profiler for Python. Inspired by Apple's Instruments.app,Python,10,593,593,32,joerick,1244307
+2242705,https://api.github.com/repos/msgpack/msgpack-python,msgpack/msgpack-python,MessagePack serializer implementation for Python msgpack.org[Python],Python,16,592,592,96,msgpack,198264
+4597834,https://api.github.com/repos/joonty/vdebug,joonty/vdebug,"Multi-language DBGP debugger client for Vim (PHP, Python, Perl, Ruby, etc.)",Python,49,590,590,89,joonty,886781
+776374,https://api.github.com/repos/alecthomas/voluptuous,alecthomas/voluptuous,"Voluptuous, despite the name, is a Python data validation library.",Python,10,588,588,90,alecthomas,41767
+833574,https://api.github.com/repos/jdf/processing.py,jdf/processing.py,Write Processing sketches in Python,Python,29,586,586,80,jdf,55948
+89242,https://api.github.com/repos/jaybaird/python-bloomfilter,jaybaird/python-bloomfilter,Scalable Bloom Filter implemented in Python,Python,7,581,581,125,jaybaird,38354
+50063252,https://api.github.com/repos/Miserlou/Zappa,Miserlou/Zappa,Serverless Python Web Services,Python,9,580,580,38,Miserlou,139987
+7200116,https://api.github.com/repos/miguelgrinberg/microblog,miguelgrinberg/microblog,A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series.,Python,8,580,580,221,miguelgrinberg,2715854
+3125672,https://api.github.com/repos/seomoz/shovel,seomoz/shovel,"Rake, for Python",Python,11,576,576,31,seomoz,104895
+11892534,https://api.github.com/repos/landscapeio/prospector,landscapeio/prospector,"Inspects Python source files and provides information about type and location of classes, methods etc",Python,38,576,576,46,landscapeio,4759094
+6984771,https://api.github.com/repos/machinalis/quepy,machinalis/quepy,A python framework to transform natural language questions to queries in a database query language.,Python,8,571,571,118,machinalis,551038
+12902206,https://api.github.com/repos/pexpect/pexpect,pexpect/pexpect,A Python module for controlling interactive programs in a pseudo-terminal,Python,31,570,570,147,pexpect,5480175
+5153654,https://api.github.com/repos/OfflineIMAP/offlineimap,OfflineIMAP/offlineimap,Read/sync your IMAP mailboxes [Python],Python,55,569,569,221,OfflineIMAP,2027973
+17671318,https://api.github.com/repos/os/slacker,os/slacker,Full-featured Python interface for the Slack API,Python,6,569,569,102,os,66500
+31169720,https://api.github.com/repos/drzoidberg33/plexpy,drzoidberg33/plexpy,A Python based monitoring and tracking tool for Plex Media Server.,Python,93,568,568,103,drzoidberg33,1313205
+333450,https://api.github.com/repos/jjlee/mechanize,jjlee/mechanize,"Stateful programmatic web browsing in Python, after Andy Lester's Perl module WWW::Mechanize .",Python,78,568,568,131,jjlee,138031
+1745896,https://api.github.com/repos/inducer/pudb,inducer/pudb,Full-screen console debugger for Python,Python,63,565,565,54,inducer,352067
+39940111,https://api.github.com/repos/lyst/lightfm,lyst/lightfm,"A Python implementation of LightFM, a hybrid recommendation algorithm.",Python,0,564,564,55,lyst,10947873
+2545950,https://api.github.com/repos/ocelma/python-recsys,ocelma/python-recsys,A python library for implementing a recommender system,Python,6,561,561,246,ocelma,388349
+1635059,https://api.github.com/repos/serverdensity/python-daemon,serverdensity/python-daemon,"Python daemonizer for Unix, Linux and OS X",Python,6,560,560,130,serverdensity,19753
+2234013,https://api.github.com/repos/echonest/pyechonest,echonest/pyechonest,Python client for the Echo Nest API,Python,25,559,559,1129,echonest,662412
+3343080,https://api.github.com/repos/erikrose/parsimonious,erikrose/parsimonious,The fastest pure-Python PEG parser I can muster,Python,30,559,559,48,erikrose,295816
+10074815,https://api.github.com/repos/berdario/pew,berdario/pew,A tool to manage multiple virtual environments written in pure python,Python,29,559,559,37,berdario,752835
+791373,https://api.github.com/repos/aparo/pyes,aparo/pyes,Python connector for ElasticSearch - the pythonic way to use ElasticSearch,Python,58,558,558,273,aparo,28075
+11403699,https://api.github.com/repos/PythonCharmers/python-future,PythonCharmers/python-future,"Easy, clean, reliable Python 2/3 compatibility",Python,73,558,558,70,PythonCharmers,3365815
+416536,https://api.github.com/repos/mediadrop/mediadrop,mediadrop/mediadrop,"A video, audio and podcast publication platform written in Python.",Python,43,558,558,173,mediadrop,5632019
+2492312,https://api.github.com/repos/dahlia/wand,dahlia/wand,The ctypes-based simple ImageMagick binding for Python,Python,88,556,556,129,dahlia,12431
+2053705,https://api.github.com/repos/espeed/bulbs,espeed/bulbs,"A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.",Python,48,555,555,91,espeed,804467
+16182770,https://api.github.com/repos/mining/mining,mining/mining,"Business Intelligence (BI) in Python, OLAP",Python,59,554,554,89,mining,9921484
+1707887,https://api.github.com/repos/apresta/tagger,apresta/tagger,A Python module for extracting relevant tags from text documents.,Python,3,553,553,52,apresta,767873
+22072746,https://api.github.com/repos/pantsbuild/pex,pantsbuild/pex,A library and tool for generating .pex (Python EXecutable) files,Python,72,553,553,56,pantsbuild,3065172
+5407062,https://api.github.com/repos/kivy/pyjnius,kivy/pyjnius,Access Java classes from Python,Python,79,552,552,123,kivy,1266152
+29375764,https://api.github.com/repos/csvoss/onelinerizer,csvoss/onelinerizer,Convert any Python file into a single line of code.,Python,2,551,551,43,csvoss,3229696
+6825724,https://api.github.com/repos/requests/requests-oauthlib,requests/requests-oauthlib,OAuthlib support for Python-Requests!,Python,29,550,550,153,requests,2805331
+681693,https://api.github.com/repos/namlook/mongokit,namlook/mongokit,MongoKit framework try to keep its simplicity when you manage mongodb in python. MongoKit was developed to be fast and light with KISS and DRY in mind. MongoKit brings structured schema and validation layer on top of the great pymongo driver. Discuss with us on Google group : http://groups.google.com/group/mongokit or follow the news on Twitter: http://twitter.com/namlook,Python,66,546,546,121,namlook,86238
+20035587,https://api.github.com/repos/DEAP/deap,DEAP/deap,Distributed Evolutionary Algorithms in Python,Python,27,545,545,151,DEAP,4682807
+5584953,https://api.github.com/repos/douban/douban-client,douban/douban-client,Python client library for Douban APIs (OAuth 2.0),Python,2,544,544,182,douban,1220164
+1214164,https://api.github.com/repos/dabeaz/ply,dabeaz/ply,Python Lex-Yacc,Python,16,542,542,108,dabeaz,350836
+1202362,https://api.github.com/repos/liris/websocket-client,liris/websocket-client,websocket client for python,Python,26,540,540,164,liris,157505
+13512018,https://api.github.com/repos/python-diamond/Diamond,python-diamond/Diamond,"Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.",Python,197,540,540,286,python-diamond,5668086
+3630931,https://api.github.com/repos/kmike/django-widget-tweaks,kmike/django-widget-tweaks,"Tweak the form field rendering in templates, not in python-level form definitions. CSS classes and HTML attributes can be altered. ",Python,18,539,539,37,kmike,107893
+3919411,https://api.github.com/repos/OpenRCE/sulley,OpenRCE/sulley,A pure-python fully automated and unattended fuzzing framework.,Python,50,537,537,179,OpenRCE,1609235
+53286541,https://api.github.com/repos/alehander42/pseudo,alehander42/pseudo,"automated algorithm / library translation for Python, JS, Go, C#, Ruby :alien:",Python,4,537,537,29,alehander42,830715
+1782227,https://api.github.com/repos/zedshaw/lamson,zedshaw/lamson,Pythonic SMTP Application Server,Python,18,536,536,147,zedshaw,358171
+14163498,https://api.github.com/repos/rhiever/TwitterFollowBot,rhiever/TwitterFollowBot,"A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.",Python,18,535,535,196,rhiever,1719223
+11974348,https://api.github.com/repos/evansd/whitenoise,evansd/whitenoise,Radically simplified static file serving for Python web apps,Python,6,532,532,36,evansd,19630
+9113587,https://api.github.com/repos/aaugustin/websockets,aaugustin/websockets,WebSocket implementation in Python 3,Python,3,530,530,54,aaugustin,788910
+734425,https://api.github.com/repos/dieseldev/diesel,dieseldev/diesel,Greenlet-based event I/O Framework for Python,Python,12,528,528,53,dieseldev,9705127
+2261155,https://api.github.com/repos/rthalley/dnspython,rthalley/dnspython,a powerful DNS toolkit for python,Python,26,527,527,128,rthalley,78507
+15856370,https://api.github.com/repos/toastdriven/restless,toastdriven/restless,A lightweight REST miniframework for Python.,Python,34,527,527,59,toastdriven,2449
+2474182,https://api.github.com/repos/mrjoes/tornadio2,mrjoes/tornadio2,Python socket.io server implementation on top of Tornado framework,Python,10,527,527,95,mrjoes,179880
+7967786,https://api.github.com/repos/an0/Letterpress,an0/Letterpress,"A minimal, Markdown based blogging system written in Python.",Python,0,526,526,54,an0,100976
+17828059,https://api.github.com/repos/ZoomerAnalytics/xlwings,ZoomerAnalytics/xlwings,xlwings is a BSD-licensed Python library that makes it easy to call Python from Excel and vice versa. It works with Microsoft Excel on Windows and Mac.,Python,122,525,525,91,ZoomerAnalytics,6239016
+19147961,https://api.github.com/repos/wireservice/agate,wireservice/agate,A Python data analysis library that is optimized for humans instead of machines.,Python,32,525,525,70,wireservice,17111824
+24560223,https://api.github.com/repos/taizilongxu/douban.fm,taizilongxu/douban.fm,:radio: douban.fm based on Python,Python,15,522,522,143,taizilongxu,4475914
+1176073,https://api.github.com/repos/bookieio/Bookie,bookieio/Bookie,Python based delicious.com replacement,Python,100,521,521,145,bookieio,4212191
+19626318,https://api.github.com/repos/nitely/Spirit,nitely/Spirit,Spirit is a modern Python based forum built on top of Django framework,Python,25,520,520,123,nitely,1697267
+8394829,https://api.github.com/repos/zedshaw/python-lust,zedshaw/python-lust,Python Little Unix Server Toolkit,Python,2,519,519,39,zedshaw,358171
+13592924,https://api.github.com/repos/python-openxml/python-docx,python-openxml/python-docx,Create and modify Word documents with Python,Python,132,519,519,190,python-openxml,3403760
+2315698,https://api.github.com/repos/walac/pyusb,walac/pyusb,USB access on python,Python,20,518,518,183,walac,611309
+15169689,https://api.github.com/repos/vmware/pyvmomi,vmware/pyvmomi,VMware vSphere API Python Bindings,Python,144,517,517,263,vmware,473334
+38793780,https://api.github.com/repos/nickoala/telepot,nickoala/telepot,Python framework for Telegram Bot API,Python,7,517,517,57,nickoala,13035417
+9120498,https://api.github.com/repos/pypa/warehouse,pypa/warehouse,Next Generation Python Package Repository,Python,118,514,514,102,pypa,647025
+2185379,https://api.github.com/repos/bytefish/facerec,bytefish/facerec,Implements face recognition algorithms for MATLAB/GNU Octave and Python.,Python,10,511,511,300,bytefish,239373
+8763405,https://api.github.com/repos/SoCo/SoCo,SoCo/SoCo,SoCo (Sonos Controller) is a simple Python class that allows you to programmatically control Sonos speakers.,Python,52,511,511,129,SoCo,3826649
+6309729,https://api.github.com/repos/bmcfee/librosa,bmcfee/librosa,Python library for audio and music analysis,Python,40,510,510,94,bmcfee,1190540
+21508865,https://api.github.com/repos/bpython/bpython,bpython/bpython,bpython - A fancy curses interface to the Python interactive interpreter,Python,83,509,509,72,bpython,8071396
+12745150,https://api.github.com/repos/wtforms/wtforms,wtforms/wtforms,A flexible forms validation and rendering library for Python.,Python,57,507,507,177,wtforms,4740084
+8930430,https://api.github.com/repos/ross/requests-futures,ross/requests-futures,Asynchronous Python HTTP Requests for Humans using Futures,Python,2,503,503,35,ross,12789
+705692,https://api.github.com/repos/gabrielfalcao/sure,gabrielfalcao/sure,utility belt for automated testing in python (inspired by @visionmedia's should.js),Python,43,499,499,60,gabrielfalcao,54914
+33997353,https://api.github.com/repos/CoreSecurity/impacket,CoreSecurity/impacket,Impacket is a collection of Python classes for working with network protocols.,Python,26,498,498,142,CoreSecurity,6544688
+3710711,https://api.github.com/repos/sigmavirus24/github3.py,sigmavirus24/github3.py,Python library for interfacing with the GitHub APIv3,Python,53,497,497,179,sigmavirus24,240830
+5196969,https://api.github.com/repos/chardet/chardet,chardet/chardet,Python 2/3 compatible character encoding detector.,Python,25,497,497,77,chardet,6211498
+10831778,https://api.github.com/repos/google/pinject,google/pinject,A pythonic dependency injection library.,Python,10,497,497,37,google,1342004
+398515,https://api.github.com/repos/datafolklabs/cement,datafolklabs/cement,Application Framework for Python,Python,25,495,495,48,datafolklabs,175862
+43175432,https://api.github.com/repos/rbgirshick/py-faster-rcnn,rbgirshick/py-faster-rcnn,Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version,Python,91,495,495,334,rbgirshick,1190634
+443845,https://api.github.com/repos/pycassa/pycassa,pycassa/pycassa,Python Thrift driver for Apache Cassandra,Python,8,494,494,141,pycassa,380152
+5171841,https://api.github.com/repos/python-beaver/python-beaver,python-beaver/python-beaver,python daemon that munches on logs and sends their contents to logstash,Python,54,491,491,173,python-beaver,16486652
+11262602,https://api.github.com/repos/datastax/python-driver,datastax/python-driver,DataStax Python Driver for Apache Cassandra,Python,3,490,490,235,datastax,573369
+27086567,https://api.github.com/repos/scrapinghub/dateparser,scrapinghub/dateparser,python parser for human readable dates,Python,34,490,490,61,scrapinghub,699596
+5717293,https://api.github.com/repos/egirault/googleplay-api,egirault/googleplay-api,Google Play Unofficial Python API - This project was a PoC and is not maintained anymore. Please feel free to fork it and improve it in any way.,Python,53,489,489,213,egirault,2285256
+15857755,https://api.github.com/repos/DenisCarriere/geocoder,DenisCarriere/geocoder,:earth_asia: Python Geocoder,Python,18,487,487,63,DenisCarriere,550895
+11002815,https://api.github.com/repos/geopandas/geopandas,geopandas/geopandas,Python tools for geographic data,Python,73,485,485,96,geopandas,8130715
+1872254,https://api.github.com/repos/makinacorpus/spynner,makinacorpus/spynner,Programmatic web browsing module with AJAX support for Python,Python,22,485,485,126,makinacorpus,546696
+4426689,https://api.github.com/repos/python-zk/kazoo,python-zk/kazoo,Kazoo is a high-level Python library that makes it easier to use Apache Zookeeper.,Python,98,484,484,197,python-zk,1731709
+16203763,https://api.github.com/repos/kamyu104/LeetCode,kamyu104/LeetCode,:pencil: Python / C++ 11 Solutions of All 345 LeetCode Questions,Python,0,482,482,249,kamyu104,4601037
+17144859,https://api.github.com/repos/grantjenks/sorted_containers,grantjenks/sorted_containers,"Python Sorted Container Types: SortedList, SortedDict, and SortedSet",Python,3,481,481,27,grantjenks,118304
+8162715,https://api.github.com/repos/mirumee/saleor,mirumee/saleor,An e-commerce storefront for Python and Django,Python,77,478,478,194,mirumee,170574
+11957607,https://api.github.com/repos/facebookarchive/react-python,facebookarchive/react-python,Python bridge to JSX & the React JavaScript library.,Python,10,477,477,44,facebookarchive,7560860
+11150301,https://api.github.com/repos/python-babel/babel,python-babel/babel,"The official repository for Babel, the Python Internationalization Library",Python,77,474,474,167,python-babel,14215782
+16165969,https://api.github.com/repos/Lukasa/hyper,Lukasa/hyper,HTTP/2 for Python.,Python,33,471,471,70,Lukasa,1382556
+9322649,https://api.github.com/repos/html5lib/html5lib-python,html5lib/html5lib-python,Standards-compliant library for parsing and serializing HTML documents and fragments in Python,Python,70,470,470,104,html5lib,4092973
+10357291,https://api.github.com/repos/GrahamDumpleton/wrapt,GrahamDumpleton/wrapt,"A Python module for decorators, wrappers and monkey patching.",Python,15,467,467,52,GrahamDumpleton,507637
+13062116,https://api.github.com/repos/waveform80/picamera,waveform80/picamera,A pure Python interface to the Raspberry Pi camera module,Python,80,466,466,87,waveform80,1076190
+3342046,https://api.github.com/repos/RDFLib/rdflib,RDFLib/rdflib,"RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",Python,105,466,466,154,RDFLib,1401847
+4216175,https://api.github.com/repos/lepture/python-livereload,lepture/python-livereload,livereload server in python,Python,16,464,464,82,lepture,290496
+1079822,https://api.github.com/repos/jodal/pykka,jodal/pykka,"Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications",Python,29,464,464,58,jodal,43726
+6155413,https://api.github.com/repos/nicolaiarocci/cerberus,nicolaiarocci/cerberus,"Lightweight, extensible data validation library for Python",Python,17,462,462,73,nicolaiarocci,512968
+18892209,https://api.github.com/repos/tartley/colorama,tartley/colorama,Simple cross-platform colored terminal text in Python,Python,19,462,462,44,tartley,137979
+3687112,https://api.github.com/repos/fengli/alipay_python,fengli/alipay_python, alipay python,Python,7,462,462,159,fengli,475628
+5698643,https://api.github.com/repos/xxg1413/python,xxg1413/python,Python,Python,1,460,460,462,xxg1413,1381803
+2732841,https://api.github.com/repos/sinacloud/sae-python-dev-guide,sinacloud/sae-python-dev-guide,SAE Python,Python,21,460,460,392,sinacloud,1352235
+2012231,https://api.github.com/repos/zatosource/zato,zatosource/zato,"ESB, SOA, REST, APIs and Cloud Integrations in Python",Python,185,459,459,117,zatosource,900466
+13186343,https://api.github.com/repos/LindseyB/starwars-dot-gif,LindseyB/starwars-dot-gif,Python script to generate gifs from star wars,Python,3,457,457,39,LindseyB,33750
+5990763,https://api.github.com/repos/tsileo/bakthat,tsileo/bakthat,"Bakthat is a MIT licensed backup framework written in Python, it's both a command line tool and a Python module that helps you manage backups on Amazon S3/Glacier and OpenStack Swift. It automatically compress, encrypt (symmetric encryption) and upload your files.",Python,44,456,456,73,tsileo,395031
+10821225,https://api.github.com/repos/tobgu/pyrsistent,tobgu/pyrsistent,Persistent/Immutable/Functional data structures for Python,Python,12,454,454,30,tobgu,485836
+15503123,https://api.github.com/repos/ronf/asyncssh,ronf/asyncssh,AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework. It requires Python 3.4 or later and the Python cryptography library for some cryptographic functions.,Python,4,453,453,34,ronf,1901085
+42720637,https://api.github.com/repos/snoack/python-goto,snoack/python-goto,"A function decorator, that rewrites the bytecode, to enable goto in Python",Python,4,452,452,24,snoack,1525
+17938217,https://api.github.com/repos/dddomodossola/remi,dddomodossola/remi,"Python REMote Interface library. Platform independent. In less than 100 Kbytes, perfect for your diet.",Python,23,451,451,29,dddomodossola,341675
+9294264,https://api.github.com/repos/areski/python-nvd3,areski/python-nvd3,Python Wrapper for NVD3 - It's time for beautiful charts,Python,13,450,450,133,areski,53455
+1990631,https://api.github.com/repos/nigelsmall/py2neo,nigelsmall/py2neo,Py2neo is a comprehensive toolkit for working with Neo4j from within Python applications or from the command line.,Python,59,450,450,87,nigelsmall,275311
+8613622,https://api.github.com/repos/nucleic/enaml,nucleic/enaml,Declarative User Interfaces for Python,Python,32,448,448,58,nucleic,3782951
+1844194,https://api.github.com/repos/PyTables/PyTables,PyTables/PyTables,A Python package to manage extremely large amounts of data,Python,105,446,446,111,PyTables,828302
+26300986,https://api.github.com/repos/iogf/vy,iogf/vy,A vim-like in python made from scratch.,Python,3,446,446,16,iogf,9003440
+21961171,https://api.github.com/repos/asweigart/pyautogui,asweigart/pyautogui,A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.,Python,47,446,446,67,asweigart,52220
+40406299,https://api.github.com/repos/Leviathan1995/Pylsy,Leviathan1995/Pylsy,Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .,Python,1,443,443,34,Leviathan1995,7801925
+13526596,https://api.github.com/repos/citronneur/rdpy,citronneur/rdpy,Remote Desktop Protocol in Twisted Python,Python,13,442,442,68,citronneur,5627503
+13513985,https://api.github.com/repos/tankywoo/simiki,tankywoo/simiki,"Simiki is a simple wiki framework, written in Python.",Python,5,442,442,61,tankywoo,1169499
+14829536,https://api.github.com/repos/pydata/numexpr,pydata/numexpr,"Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas, bcolz and more",Python,50,441,441,65,pydata,1284191
+52175332,https://api.github.com/repos/azazel75/metapensiero.pj,azazel75/metapensiero.pj,Javascript for refined palates: a Python 3 to ES6 Javascript translator,Python,3,441,441,20,azazel75,834719
+1072814,https://api.github.com/repos/jdunck/python-unicodecsv,jdunck/python-unicodecsv,"Python2's stdlib csv module is nice, but it doesn't support unicode.  This module is a drop-in replacement which *does*.  If you prefer python 3's semantics but need support in py2, you probably want https://github.com/ryanhiebert/backports.csv",Python,11,441,441,70,jdunck,10229
+86910,https://api.github.com/repos/python-git/python,python-git/python,Unofficial Python SVN auto-updating mirror,Python,16,440,440,249,python-git,39016
+11110385,https://api.github.com/repos/cvxgrp/cvxpy,cvxgrp/cvxpy,A Python-embedded modeling language for convex optimization problems.,Python,17,440,440,158,cvxgrp,2957335
+3810626,https://api.github.com/repos/mrjbq7/ta-lib,mrjbq7/ta-lib,Python wrapper for TA-Lib (http://ta-lib.org/).,Python,45,439,439,141,mrjbq7,24195
+132857,https://api.github.com/repos/rapidsms/rapidsms,rapidsms/rapidsms,Build SMS applications with Python,Python,58,437,437,209,rapidsms,56058
+22978655,https://api.github.com/repos/googlemaps/google-maps-services-python,googlemaps/google-maps-services-python,Python client library for Google Maps API Web Services,Python,12,437,437,169,googlemaps,3717923
+4035521,https://api.github.com/repos/evernote/evernote-sdk-python,evernote/evernote-sdk-python,Evernote SDK for Python,Python,17,436,436,112,evernote,1120885
+21954559,https://api.github.com/repos/datamade/usaddress,datamade/usaddress,:us: a python library for parsing unstructured address strings into address components,Python,22,436,436,56,datamade,3723931
+21282955,https://api.github.com/repos/iKevinY/EulerPy,iKevinY/EulerPy,Python-based Project Euler command line tool.,Python,0,434,434,39,iKevinY,2434728
+19168375,https://api.github.com/repos/macropin/django-registration,macropin/django-registration,django-registration (redux) now with Django 1.7/1.8/1.9 & Python 3 support,Python,21,430,430,202,macropin,247192
+12420595,https://api.github.com/repos/CamDavidsonPilon/lifelines,CamDavidsonPilon/lifelines,Survival analysis in Python,Python,36,429,429,89,CamDavidsonPilon,884032
+46455577,https://api.github.com/repos/mbachry/exxo,mbachry/exxo,Build portable Python binaries,Python,2,429,429,9,mbachry,217954
+3080613,https://api.github.com/repos/Toblerity/Shapely,Toblerity/Shapely,Python package for manipulation and analysis of geometric objects in the Cartesian plane,Python,17,429,429,128,Toblerity,859968
+200587,https://api.github.com/repos/Knio/dominate,Knio/dominate,"Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.",Python,10,429,429,20,Knio,83974
+9908723,https://api.github.com/repos/spotify/snakebite,spotify/snakebite,A pure python HDFS client,Python,39,427,427,111,spotify,251374
+52316552,https://api.github.com/repos/dodger487/dplython,dodger487/dplython,dplyr for python,Python,11,426,426,26,dodger487,179794
+5819063,https://api.github.com/repos/noplay/python-mysql-replication,noplay/python-mysql-replication,Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL,Python,20,424,424,126,noplay,345437
+23269877,https://api.github.com/repos/yorkoliu/pyauto,yorkoliu/pyauto,python,Python,2,424,424,406,yorkoliu,8534185
+7924956,https://api.github.com/repos/SavinaRoja/PyUserInput,SavinaRoja/PyUserInput,A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.,Python,42,424,424,99,SavinaRoja,454944
+3720903,https://api.github.com/repos/poise/python,poise/python,Chef cookbook to install Python and related tools,Python,4,423,423,671,poise,5799066
+10908696,https://api.github.com/repos/mps-youtube/pafy,mps-youtube/pafy,Python library to download YouTube content and retrieve metadata,Python,21,423,423,78,mps-youtube,12987682
+1030255,https://api.github.com/repos/madmaze/pytesseract,madmaze/pytesseract,A Python wrapper for Google Tesseract,Python,17,422,422,89,madmaze,168456
+3493279,https://api.github.com/repos/buffer/thug,buffer/thug,Python low-interaction honeyclient,Python,2,416,416,120,buffer,315927
+10273838,https://api.github.com/repos/davidaurelio/hashids-python,davidaurelio/hashids-python,Implementation of hashids (http://hashids.org) in Python. Compatible with Python2 and Python3,Python,0,416,416,37,davidaurelio,158859
+39859622,https://api.github.com/repos/billpmurphy/hask,billpmurphy/hask,Haskell language features and standard libraries in pure Python.,Python,10,416,416,8,billpmurphy,1874654
+531541,https://api.github.com/repos/vicalloy/LBForum,vicalloy/LBForum,LBForum is a forum engine written in Python using Django,Python,7,415,415,154,vicalloy,43507
+3138726,https://api.github.com/repos/appliedsec/pygeoip,appliedsec/pygeoip,Pure Python API for Maxmind's binary GeoIP databases,Python,5,414,414,87,appliedsec,1309869
+10608253,https://api.github.com/repos/pyfa-org/Pyfa,pyfa-org/Pyfa,"Python fitting assistant, cross-platform fitting tool for EVE Online",Python,98,414,414,127,pyfa-org,16587622
+16727684,https://api.github.com/repos/eleme/thriftpy,eleme/thriftpy,Pure python implementation of Apache Thrift.,Python,6,412,412,114,eleme,1201438
+40875324,https://api.github.com/repos/paicha/gxgk-wechat-server,paicha/gxgk-wechat-server, PythonFlaskRedisMySQLCelery,Python,0,411,411,142,paicha,5148245
+626368,https://api.github.com/repos/timbertson/python-readability,timbertson/python-readability,[abandoned] python port of arc90's readability bookmarklet,Python,4,408,408,267,timbertson,14172
+28295033,https://api.github.com/repos/alixander/PyScribe,alixander/PyScribe,A Python library to make debugging with print statements simpler and more effective.,Python,2,408,408,17,alixander,3120367
+11830785,https://api.github.com/repos/vgel/summarize.py,vgel/summarize.py,A python script for summarizing articles using nltk,Python,4,407,407,76,vgel,980096
+4639444,https://api.github.com/repos/benhamner/Metrics,benhamner/Metrics,"Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave",Python,10,407,407,151,benhamner,582878
+51960890,https://api.github.com/repos/EliotBerriot/lifter,EliotBerriot/lifter,"A lightweight query engine for Python iterables, inspired by Django ORM",Python,10,406,406,15,EliotBerriot,1970915
+16459325,https://api.github.com/repos/naiquevin/pipdeptree,naiquevin/pipdeptree,A command line utility to display dependency tree of the installed Python packages,Python,10,403,403,24,naiquevin,584860
+3354059,https://api.github.com/repos/mitsuhiko/python-modernize,mitsuhiko/python-modernize,Modernizes Python code for eventual Python 3 migration. Build on top of 2to3,Python,1,401,401,29,mitsuhiko,7396
+22937749,https://api.github.com/repos/rasbt/mlxtend,rasbt/mlxtend,A library of extension and helper modules for Python's data analysis and machine learning libraries.,Python,7,401,401,105,rasbt,5618407
+39698188,https://api.github.com/repos/pyparallel/pyparallel,pyparallel/pyparallel,Experimental multicore fork of Python 3,Python,2,400,400,20,pyparallel,8021232
+3325585,https://api.github.com/repos/nvie/times,nvie/times,Times and time zones in Python with a focus on best practices.,Python,0,399,399,25,nvie,83844
+13265524,https://api.github.com/repos/balloob/pychromecast,balloob/pychromecast,Library for Python 2 and 3 to communicate with the Google Chromecast.,Python,19,398,398,75,balloob,1444314
+45048822,https://api.github.com/repos/ufora/ufora,ufora/ufora,"Compiled, automatically parallel Python for data science",Python,71,397,397,19,ufora,6099016
+39891061,https://api.github.com/repos/matthewearl/faceswap,matthewearl/faceswap,Python script to put facial features from one face onto another,Python,2,395,395,111,matthewearl,1709642
+2038135,https://api.github.com/repos/echen/restricted-boltzmann-machines,echen/restricted-boltzmann-machines,Restricted Boltzmann Machines in Python.,Python,7,393,393,146,echen,102375
+412420,https://api.github.com/repos/jsonpickle/jsonpickle,jsonpickle/jsonpickle,"Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.",Python,22,393,393,68,jsonpickle,165337
+283042,https://api.github.com/repos/limodou/uliweb,limodou/uliweb,Simple and easy use python web framework,Python,1,392,392,90,limodou,116544
+4874179,https://api.github.com/repos/geeknam/python-gcm,geeknam/python-gcm,Python client for Google Cloud Messaging for Android (GCM),Python,2,392,392,141,geeknam,199628
+51841561,https://api.github.com/repos/praetorian-inc/pentestly,praetorian-inc/pentestly,Python and Powershell internal penetration testing framework,Python,1,392,392,64,praetorian-inc,8173787
+18766036,https://api.github.com/repos/machinalis/iepy,machinalis/iepy,Information Extraction in Python,Python,19,391,391,72,machinalis,551038
+6762625,https://api.github.com/repos/kislyuk/argcomplete,kislyuk/argcomplete,"Python and tab completion, better together.",Python,28,390,390,46,kislyuk,862013
+5894962,https://api.github.com/repos/h5py/h5py,h5py/h5py,HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.,Python,74,390,390,126,h5py,2389852
+1103479,https://api.github.com/repos/mopidy/pyspotify,mopidy/pyspotify,Python bindings for libspotify,Python,11,386,386,82,mopidy,451998
+12005476,https://api.github.com/repos/vbuterin/pybitcointools,vbuterin/pybitcointools,"SImple, common-sense Bitcoin-themed Python ECC library",Python,48,386,386,153,vbuterin,2230894
+46979489,https://api.github.com/repos/sherjilozair/char-rnn-tensorflow,sherjilozair/char-rnn-tensorflow," Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow ",Python,10,386,386,116,sherjilozair,677316
+14116604,https://api.github.com/repos/mapbox/rasterio,mapbox/rasterio,Clean and fast and geospatial raster I/O for Python programmers who use Numpy,Python,66,386,386,85,mapbox,600935
+38095954,https://api.github.com/repos/eternnoir/pyTelegramBotAPI,eternnoir/pyTelegramBotAPI,Python Telegram bot api.,Python,14,382,382,102,eternnoir,1109538
+766701,https://api.github.com/repos/jamesturk/jellyfish,jamesturk/jellyfish,a python library for doing approximate and phonetic matching of strings.,Python,0,382,382,43,jamesturk,8034
+1501267,https://api.github.com/repos/michaelfairley/mincemeatpy,michaelfairley/mincemeatpy,Lightweight MapReduce in python,Python,0,379,379,155,michaelfairley,110025
+12189834,https://api.github.com/repos/xiaocong/uiautomator,xiaocong/uiautomator,Python wrapper of Android uiautomator test tool. ,Python,54,379,379,198,xiaocong,1559756
+600956,https://api.github.com/repos/JulienPalard/Pipe,JulienPalard/Pipe,A Python library to use infix notation in Python,Python,5,378,378,41,JulienPalard,239510
+18031064,https://api.github.com/repos/hmmlearn/hmmlearn,hmmlearn/hmmlearn,"Hidden Markov Models in Python, with scikit-learn like API",Python,21,377,377,148,hmmlearn,7037444
+2452739,https://api.github.com/repos/blampe/IbPy,blampe/IbPy,Python API for the Interactive Brokers on-line trading system.,Python,13,375,375,201,blampe,848843
+33907577,https://api.github.com/repos/Vector35/binaryninja-python,Vector35/binaryninja-python,Binary Ninja prototype written in Python,Python,10,374,374,41,Vector35,10394906
+502194,https://api.github.com/repos/benoitc/restkit,benoitc/restkit,an HTTP resource kit for Python,Python,20,373,373,55,benoitc,14498
+9470043,https://api.github.com/repos/Hawstein/snake-ai,Hawstein/snake-ai,a snake AI written in python,Python,1,372,372,175,Hawstein,2238491
+5070149,https://api.github.com/repos/kivy/buildozer,kivy/buildozer,Generic Python packager for Android and iOS,Python,75,372,372,111,kivy,1266152
+3123657,https://api.github.com/repos/sarumont/py-trello,sarumont/py-trello,Python API wrapper around Trello's API,Python,17,372,372,143,sarumont,185185
+228661,https://api.github.com/repos/rlisagor/freshen,rlisagor/freshen,Clone of the Cucumber BDD framework for Python,Python,22,371,371,54,rlisagor,4230
+21365526,https://api.github.com/repos/mitsuhiko/pluginbase,mitsuhiko/pluginbase,A simple but flexible plugin system for Python.,Python,11,371,371,28,mitsuhiko,7396
+478110,https://api.github.com/repos/sbp/phenny,sbp/phenny,Python IRC bot,Python,18,369,369,245,sbp,184941
+16798102,https://api.github.com/repos/pricingassistant/mrq,pricingassistant/mrq,Mr. Queue - A distributed worker task queue in Python using Redis & gevent,Python,34,369,369,29,pricingassistant,3194843
+1237619,https://api.github.com/repos/mrjoes/tornadio,mrjoes/tornadio,Python socket.io 0.6 server implementation on top of Tornado framework,Python,2,369,369,41,mrjoes,179880
+144321,https://api.github.com/repos/toastdriven/itty,toastdriven/itty,The itty-bitty Python web framework.,Python,8,368,368,45,toastdriven,2449
+14614020,https://api.github.com/repos/SohuTech/essay,SohuTech/essay,Python,Python,3,367,367,131,SohuTech,6008915
+10775999,https://api.github.com/repos/MeetMe/newrelic-plugin-agent,MeetMe/newrelic-plugin-agent,Multi-Plugin python-based Agent for NewRelic's Platform,Python,163,366,366,200,MeetMe,1626760
+13221727,https://api.github.com/repos/pydata/xarray,pydata/xarray,N-D labeled arrays and datasets in Python,Python,153,365,365,102,pydata,1284191
+495613,https://api.github.com/repos/luispedro/mahotas,luispedro/mahotas,Computer Vision in Python,Python,7,362,362,73,luispedro,79334
+4357319,https://api.github.com/repos/ozgur/python-linkedin,ozgur/python-linkedin,Python interface to the LinkedIn API,Python,34,361,361,189,ozgur,43006
+43509302,https://api.github.com/repos/secdev/scapy,secdev/scapy,Scapy: the python-based interactive packet manipulation program & library,Python,20,360,360,83,secdev,14927208
+5709451,https://api.github.com/repos/farcepest/MySQLdb1,farcepest/MySQLdb1,MySQL database connector for Python (legacy version),Python,64,359,359,185,farcepest,383968
+16242221,https://api.github.com/repos/rasbt/pyprind,rasbt/pyprind,PyPrind - Python Progress Indicator Utility,Python,5,358,358,36,rasbt,5618407
+14211461,https://api.github.com/repos/google/oauth2client,google/oauth2client,This is a Python library for accessing resources protected by OAuth 2.0.,Python,87,358,358,187,google,1342004
+49777913,https://api.github.com/repos/lamerman/shellpy,lamerman/shellpy,A tool for convenient shell scripting in python,Python,19,357,357,31,lamerman,1468837
+4967626,https://api.github.com/repos/heynemann/r3,heynemann/r3,r is a map-reduce engine written in python using redis as a backend,Python,2,357,357,28,heynemann,60965
+1877688,https://api.github.com/repos/disqus/nydus,disqus/nydus,"Nydus is a Python toolkit for managing database connections and routing operations, primarily for Redis",Python,5,357,357,28,disqus,317745
+9452875,https://api.github.com/repos/googleglass/mirror-quickstart-python,googleglass/mirror-quickstart-python,Google Mirror API's Quickstart for Python,JavaScript,1,356,356,188,googleglass,3903843
+5021892,https://api.github.com/repos/hgrecco/pint,hgrecco/pint,Operate and manipulate physical quantities in Python,Python,67,354,354,100,hgrecco,278566
+18772196,https://api.github.com/repos/rgalanakis/goless,rgalanakis/goless,Go-like semantics built on top of Stackless Python.,Python,8,354,354,20,rgalanakis,1643233
+15356714,https://api.github.com/repos/Zulko/easyAI,Zulko/easyAI,Python artificial intelligence framework for games,Python,4,353,353,48,Zulko,1646122
+24632286,https://api.github.com/repos/cosmo-ethz/hope,cosmo-ethz/hope,HOPE: A Python Just-In-Time compiler for astrophysical computations,Python,6,353,353,22,cosmo-ethz,8969967
+7863216,https://api.github.com/repos/mikeorr/Unipath,mikeorr/Unipath,An object-oriented approach to Python file/directory operations.,Python,3,353,353,30,mikeorr,470605
+5484271,https://api.github.com/repos/NahimNasser/django-unchained,NahimNasser/django-unchained,Introduction to Python and Django,Python,0,352,352,89,NahimNasser,1751246
+7115259,https://api.github.com/repos/eventlet/eventlet,eventlet/eventlet,Concurrent networking library for Python (official mirror),Python,88,352,352,126,eventlet,3017635
+12102683,https://api.github.com/repos/skariel/webalchemy,skariel/webalchemy,Modern web development with Python,Python,46,350,350,22,skariel,2347816
+40759452,https://api.github.com/repos/QingdaoU/OnlineJudge,QingdaoU/OnlineJudge,"Open source online judge based on Python, Django and Docker. |  Online Judge | 5VirtualJudge | watchQQ",Python,0,350,350,94,QingdaoU,10876166
+19738880,https://api.github.com/repos/Fuck-You-GFW/simDHT,Fuck-You-GFW/simDHT,"A very simple DHT crawler, was written in Python.",Python,0,349,349,176,Fuck-You-GFW,5484841
+10579590,https://api.github.com/repos/hhatto/nude.py,hhatto/nude.py,Nudity detection with Python,Python,7,347,347,45,hhatto,150309
+3372086,https://api.github.com/repos/soundcloud/soundcloud-python,soundcloud/soundcloud-python,A Python wrapper around the Soundcloud API,Python,20,347,347,109,soundcloud,21021
+4562600,https://api.github.com/repos/pystruct/pystruct,pystruct/pystruct,Simple structured learning framework for python,Python,63,347,347,88,pystruct,4851415
+24648645,https://api.github.com/repos/Yelp/pyleus,Yelp/pyleus,Pyleus is a Python framework for developing and launching Storm topologies.,Python,63,347,347,73,Yelp,49071
+18250894,https://api.github.com/repos/kevthehermit/RATDecoders,kevthehermit/RATDecoders,Python Decoders for Common Remote Access Trojans,Python,7,346,346,93,kevthehermit,2545096
+51575541,https://api.github.com/repos/liuwons/wxBot,liuwons/wxBot,PythonAPI,Python,15,346,346,138,liuwons,9864950
+31572652,https://api.github.com/repos/yahoo/redislite,yahoo/redislite,Redis in a python module,Python,10,346,346,26,yahoo,16574
+6035091,https://api.github.com/repos/Skype4Py/Skype4Py,Skype4Py/Skype4Py,Platform independent Python wrapper for the Skype Desktop API,Python,28,346,346,90,Skype4Py,16186843
+25189174,https://api.github.com/repos/maciejkula/glove-python,maciejkula/glove-python,Toy Python implementation of http://www-nlp.stanford.edu/projects/glove/,Python,9,343,343,91,maciejkula,2392579
+11031844,https://api.github.com/repos/uqfoundation/dill,uqfoundation/dill,serialize all of python,Python,51,342,342,29,uqfoundation,2855931
+3268682,https://api.github.com/repos/cgoldberg/multi-mechanize,cgoldberg/multi-mechanize,Performance Test Framework in Python,Python,26,341,341,116,cgoldberg,1113081
+1349262,https://api.github.com/repos/Tivix/django-cron,Tivix/django-cron,"Write cron business logic as a Python class and let this app do the rest! It enables Django projects to schedule cron tasks, tracks their success / failures, manages contention (via a cache) etc. Basically takes care of all the boring work for you :-)",Python,11,341,341,83,Tivix,610135
+35432888,https://api.github.com/repos/Leo-G/Flask-Scaffold,Leo-G/Flask-Scaffold,"Prototype Database driven CRUD dashboards and RESTFUL API's in Python 3, Flask and Angularjs",Python,10,340,340,45,Leo-G,3602061
+12085960,https://api.github.com/repos/hynek/structlog,hynek/structlog,Structured Logging for Python,Python,11,339,339,27,hynek,41240
+7466540,https://api.github.com/repos/JazzCore/python-pdfkit,JazzCore/python-pdfkit,Wkhtmltopdf python wrapper to convert html to pdf,Python,32,339,339,60,JazzCore,1290755
+2222138,https://api.github.com/repos/collective/icalendar,collective/icalendar,icalendar parser library for Python,Python,44,338,338,80,collective,362867
+18342888,https://api.github.com/repos/CleanCut/green,CleanCut/green,"Green is a clean, colorful, fast python test runner.",Python,22,338,338,26,CleanCut,5838512
+17055028,https://api.github.com/repos/deanishe/alfred-workflow,deanishe/alfred-workflow,Helper library for writing Alfred 2 workflows in Python,Python,3,338,338,43,deanishe,747913
+8941695,https://api.github.com/repos/QuantEcon/QuantEcon.py,QuantEcon/QuantEcon.py,A community based Python library for quantitative economics,Python,53,337,337,521,QuantEcon,8703060
+10682218,https://api.github.com/repos/miguelgrinberg/REST-tutorial,miguelgrinberg/REST-tutorial,Files for my REST API tutorials featuring a server written in Python and a web client written in Javascript.,Python,3,337,337,113,miguelgrinberg,2715854
+1415467,https://api.github.com/repos/dasmith/stanford-corenlp-python,dasmith/stanford-corenlp-python,Python wrapper for Stanford CoreNLP tools v3.4.1,Python,28,336,336,136,dasmith,235867
+20141921,https://api.github.com/repos/liftoff/pyminifier,liftoff/pyminifier,"Pyminifier is a Python code minifier, obfuscator, and compressor.",Python,42,336,336,36,liftoff,1123439
+24733577,https://api.github.com/repos/flyingrub/scdl,flyingrub/scdl,Python Soundcloud Music Downloader,Python,13,335,335,50,flyingrub,3988628
+8177778,https://api.github.com/repos/koalalorenzo/python-digitalocean,koalalorenzo/python-digitalocean,Python module to manage Digital Ocean droplets,Python,4,335,335,85,koalalorenzo,33528
+526122,https://api.github.com/repos/openid/python-openid,openid/python-openid,OpenID library for Python,Python,61,334,334,158,openid,71971
+78759,https://api.github.com/repos/earl/beanstalkc,earl/beanstalkc,A simple beanstalkd client library for Python,Python,20,333,333,80,earl,11377
+1718284,https://api.github.com/repos/progrium/ginkgo,progrium/ginkgo,Python service microframework,Python,11,331,331,46,progrium,647
+24049454,https://api.github.com/repos/biosustain/potion,biosustain/potion,Flask-Potion is a RESTful API framework for Flask and various Python ORMs,Python,18,330,330,25,biosustain,5499849
+7449695,https://api.github.com/repos/selwin/python-user-agents,selwin/python-user-agents,"A Python library that provides an easy way to identify devices like mobile phones, tablets and their capabilities by parsing (browser) user agent strings.",Python,21,330,330,73,selwin,188658
+6501727,https://api.github.com/repos/swaroopch/byte-of-python,swaroopch/byte-of-python,A Byte of Python book,Python,6,328,328,246,swaroopch,42988
+6905963,https://api.github.com/repos/SheffieldML/GPy,SheffieldML/GPy,Gaussian processes framework in python ,Python,34,328,328,128,SheffieldML,1655638
+3245497,https://api.github.com/repos/riccardoscalco/Pykov,riccardoscalco/Pykov,Pykov is a Python module on finite regular Markov chains.,Python,5,328,328,31,riccardoscalco,1370300
+8384094,https://api.github.com/repos/dropbox/pyxl,dropbox/pyxl,A Python extension for writing structured and reusable inline HTML.,Python,1,328,328,23,dropbox,559357
+11147893,https://api.github.com/repos/jek/blinker,jek/blinker,A fast Python in-process signal/event dispatching system.,Python,14,328,328,42,jek,18212
+35317949,https://api.github.com/repos/rouseguy/intro2stats,rouseguy/intro2stats,Introduction to Statistics using Python,Python,1,327,327,73,rouseguy,6038894
+9056887,https://api.github.com/repos/tumblr/pytumblr,tumblr/pytumblr,A Python Tumblr API v2 Client,Python,19,325,325,99,tumblr,366151
+12190067,https://api.github.com/repos/karan/HackerNewsAPI,karan/HackerNewsAPI,:newspaper: Unofficial Python API for Hacker News. RESTful API at https://github.com/karan/HNify,Python,9,325,325,53,karan,3261985
+8116879,https://api.github.com/repos/alecthomas/pawk,alecthomas/pawk,PAWK - A Python line processor (like AWK),Python,0,324,324,21,alecthomas,41767
+1374277,https://api.github.com/repos/sivy/pystatsd,sivy/pystatsd,Python implementation of the Statsd client/server,Python,23,323,323,92,sivy,70188
+15086872,https://api.github.com/repos/brandon-rhodes/fopnp,brandon-rhodes/fopnp,Foundations of Python Network Programming (Apress)  scripts and examples,Python,2,323,323,130,brandon-rhodes,166162
+96650,https://api.github.com/repos/william-os4y/fapws3,william-os4y/fapws3,Fast Asynchronous Python Web Server (based on libev),Python,5,323,323,34,william-os4y,31986
+4136126,https://api.github.com/repos/ducksboard/libsaas,ducksboard/libsaas,Python library to take the pain out of using SaaS APIs. It's like an ORM for SaaS!,Python,6,323,323,68,ducksboard,760920
+59235,https://api.github.com/repos/mkleehammer/pyodbc,mkleehammer/pyodbc,Python ODBC bridge,Python,36,322,322,118,mkleehammer,27421
+141238,https://api.github.com/repos/EnigmaCurry/blogofile,EnigmaCurry/blogofile,A static website compiler and blog engine written in Python.,Python,44,322,322,96,EnigmaCurry,43061
+15232217,https://api.github.com/repos/makaimc/underwear,makaimc/underwear,Dead simple LAMP-stack deployments for Python-powered web applications.,Python,5,322,322,29,makaimc,305282
+14151539,https://api.github.com/repos/influxdata/influxdb-python,influxdata/influxdb-python,Python client for InfluxDB,Python,21,321,321,147,influxdata,5713248
+24123278,https://api.github.com/repos/openstack/bandit,openstack/bandit,Python AST-based static analyzer from OpenStack Security Group,Python,0,321,321,23,openstack,324574
+47144923,https://api.github.com/repos/prodicus/vocabulary,prodicus/vocabulary,"Python Module to get Meanings, Synonyms and what not for a given word",Python,3,320,320,23,prodicus,4672518
+448831,https://api.github.com/repos/knipknap/SpiffWorkflow,knipknap/SpiffWorkflow,A powerful workflow engine implemented in pure Python,Python,3,319,319,82,knipknap,149321
+43437198,https://api.github.com/repos/Damnever/pigar,Damnever/pigar,":coffee: A fantastic tool to generate requirements file for your Python project, and more than that.",Python,1,319,319,20,Damnever,6223594
+1474600,https://api.github.com/repos/Mashape/unirest-python,Mashape/unirest-python,"Unirest in Python: Simplified, lightweight HTTP client library.",Python,14,318,318,68,Mashape,962416
+498035,https://api.github.com/repos/haypo/pysandbox,haypo/pysandbox,"WARNING: pysandbox is BROKEN BY DESIGN, please move to a new sandboxing solution (run python in a sandbox, not the opposite!)",Python,0,318,318,26,haypo,194129
+613742,https://api.github.com/repos/basho/riak-python-client,basho/riak-python-client,Python clients for Riak.,Python,37,317,317,137,basho,176293
+677050,https://api.github.com/repos/lxneng/xpinyin,lxneng/xpinyin,translate chinese hanzi to pinyin by python,Python,0,317,317,88,lxneng,112606
+36136047,https://api.github.com/repos/n1nj4sec/memorpy,n1nj4sec/memorpy,Python library using ctypes to search/edit windows programs memory,Python,0,317,317,25,n1nj4sec,12549318
+28912438,https://api.github.com/repos/YosaiProject/yosai,YosaiProject/yosai,:japanese_castle: A Security Framework for Python Applications,Python,4,317,317,13,YosaiProject,10434362
+5742095,https://api.github.com/repos/tabatkins/railroad-diagrams,tabatkins/railroad-diagrams,:steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams. Now with a Python port!,Python,3,317,317,45,tabatkins,682840
+10575335,https://api.github.com/repos/eliben/pyelftools,eliben/pyelftools,Pure-python library for parsing ELF and DWARF,Python,34,316,316,112,eliben,1130906
+18467027,https://api.github.com/repos/plamere/spotipy,plamere/spotipy,A light weight Python library for the Spotify Web API,Python,49,316,316,96,plamere,93977
+8992971,https://api.github.com/repos/cgoldberg/ystockquote,cgoldberg/ystockquote,retrieve stock quote data from Yahoo Finance (Python module),Python,23,315,315,141,cgoldberg,1113081
+6679704,https://api.github.com/repos/studioimaginaire/phue,studioimaginaire/phue,A Python library for the Philips Hue system,Python,18,315,315,83,studioimaginaire,1060818
+33739295,https://api.github.com/repos/python/asyncio,python/asyncio,"This project is the asyncio module for Python 3.3. Since Python 3.4, asyncio is part of the standard library.",Python,50,313,313,67,python,1525981
+7652428,https://api.github.com/repos/msiemens/PyGitUp,msiemens/PyGitUp,A python implementation of git up,Python,4,312,312,19,msiemens,1873922
+15516057,https://api.github.com/repos/Miserlou/SoundScrape,Miserlou/SoundScrape,SoundCloud (and Bandcamp and Mixcloud) downloader in Python. ,Python,23,312,312,38,Miserlou,139987
+3421486,https://api.github.com/repos/crhym3/simpleauth,crhym3/simpleauth,"Simple authentication for Python on Google App Engine supporting OAuth 2.0, OAuth 1.0(a) and OpenID",Python,9,312,312,65,crhym3,25405
+145733,https://api.github.com/repos/tomerfiliba/rpyc,tomerfiliba/rpyc,RPyC (Remote Python Call) - A transparent and symmetric RPC library for python,Python,26,311,311,70,tomerfiliba,53122
+219431,https://api.github.com/repos/dan/hivelogic-flickrtouchr,dan/hivelogic-flickrtouchr,"A Python script to grab all your photos from flickr and dump them into a directory, organized into folders by set name.",Python,16,310,310,62,dan,219
+1534174,https://api.github.com/repos/posativ/acrylamid,posativ/acrylamid,static blog generator in python with incremental rendering,Python,47,308,308,42,posativ,337602
+30504648,https://api.github.com/repos/agermanidis/SnapchatBot,agermanidis/SnapchatBot,[deprecated] Python library for building bots that live on Snapchat,Python,20,308,308,57,agermanidis,600956
+3575995,https://api.github.com/repos/trigger/trigger,trigger/trigger,Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.,Python,71,308,308,68,trigger,3708702
+7961646,https://api.github.com/repos/iancmcc/ouimeaux,iancmcc/ouimeaux,Python API to Belkin WeMo devices,Python,43,307,307,98,iancmcc,57971
+19227725,https://api.github.com/repos/PyMySQL/mysqlclient-python,PyMySQL/mysqlclient-python,MySQL database connector for Python (with Python 3 support),Python,6,307,307,37,PyMySQL,5338312
+30243627,https://api.github.com/repos/klen/muffin,klen/muffin,"Muffin is a fast, simple and asyncronous web-framework for Python 3",Python,5,306,306,15,klen,90699
+4127088,https://api.github.com/repos/Azure/azure-sdk-for-python,Azure/azure-sdk-for-python,Microsoft Azure SDK for Python,Python,37,305,305,235,Azure,6844498
+42215842,https://api.github.com/repos/Hypsurus/weeman,Hypsurus/weeman,:tropical_fish: HTTP Server for phishing in Python,Python,0,305,305,93,Hypsurus,11511233
+14412355,https://api.github.com/repos/GoogleCloudPlatform/appengine-flask-skeleton,GoogleCloudPlatform/appengine-flask-skeleton,A skeleton for creating Python applications using the Flask framework on App Engine,Python,1,305,305,105,GoogleCloudPlatform,2810941
+5743309,https://api.github.com/repos/gnemoug/sina_reptile,gnemoug/sina_reptile,"1000w50,pythonmongodb",Python,1,305,305,233,gnemoug,1902153
+4978045,https://api.github.com/repos/Parsely/pykafka,Parsely/pykafka,Kafka client for Python,Python,34,304,304,93,Parsely,779641
+40094312,https://api.github.com/repos/pyserial/pyserial,pyserial/pyserial,Python serial port access library,Python,30,304,304,97,pyserial,10537924
+40421806,https://api.github.com/repos/pybee/batavia,pybee/batavia,A Javascript implementation of the Python virtual machine.,Python,5,304,304,35,pybee,5001767
+15065854,https://api.github.com/repos/Widdershin/butterdb,Widdershin/butterdb,"butterdb is a Python object mapper for Google Drive Spreadsheets. Still in development, but usable.",Python,10,304,304,14,Widdershin,398365
+533328,https://api.github.com/repos/pyelasticsearch/pyelasticsearch,pyelasticsearch/pyelasticsearch,python elasticsearch client,Python,40,303,303,141,pyelasticsearch,10234413
+15926039,https://api.github.com/repos/pypa/python-packaging-user-guide,pypa/python-packaging-user-guide,Python Packaging User Guide,Python,54,303,303,121,pypa,647025
+2679840,https://api.github.com/repos/AdamLaurie/RFIDIOt,AdamLaurie/RFIDIOt,python RFID / NFC library & tools,Python,11,303,303,85,AdamLaurie,1160547
+7764556,https://api.github.com/repos/kivy/plyer,kivy/plyer,Plyer is a platform-independent Python wrapper for platform-dependent APIs,Python,77,303,303,83,kivy,1266152
+15646954,https://api.github.com/repos/manojmj92/subtitle-downloader,manojmj92/subtitle-downloader,Python script to automatically download subtitles for any movie/tv series episode.,Python,4,303,303,138,manojmj92,4034241
+10917677,https://api.github.com/repos/richardkiss/pycoin,richardkiss/pycoin,Python-based Bitcoin and alt-coin utility library.,Python,29,302,302,133,richardkiss,5336
+1953389,https://api.github.com/repos/stripe/stripe-python,stripe/stripe-python,Stripe Python bindings,Python,3,301,301,98,stripe,856813
+87831,https://api.github.com/repos/chapmanb/bcbb,chapmanb/bcbb,"Incubator for useful bioinformatics code, primarily in Python and R",Python,7,301,301,150,chapmanb,39391
+829915,https://api.github.com/repos/ganglia/gmond_python_modules,ganglia/gmond_python_modules,Repository of user-contributed Gmond Python DSO metric modules,Python,38,300,300,305,ganglia,360097
+23332997,https://api.github.com/repos/jleclanche/fireplace,jleclanche/fireplace,A Hearthstone simulator in Python,Python,43,300,300,73,jleclanche,235410
+2913579,https://api.github.com/repos/bashwork/pymodbus,bashwork/pymodbus,A full modbus protocol written in python,Python,56,299,299,140,bashwork,46708
+10156090,https://api.github.com/repos/klen/mixer,klen/mixer,"Mixer -- Is a fixtures replacement. Supported Django, Flask, SqlAlchemy and custom python objects. ",Python,13,299,299,33,klen,90699
+41185385,https://api.github.com/repos/icgood/continuous-docs,icgood/continuous-docs,Tutorial and example package for continuous documentation generation in Python.,Python,0,299,299,13,icgood,438413
+403535,https://api.github.com/repos/djmelik/archey,djmelik/archey,Archey is a system information tool written in Python.,Python,25,298,298,93,djmelik,163707
+40796389,https://api.github.com/repos/pybee/voc,pybee/voc, A transpiler that converts Python bytecode into Java bytecode.,Python,11,297,297,43,pybee,5001767
+1032167,https://api.github.com/repos/ldx/python-iptables,ldx/python-iptables,Python bindings for iptables,Python,6,296,296,92,ldx,456904
+1192339,https://api.github.com/repos/pascalw/Airplayer,pascalw/Airplayer,"Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.",Python,12,296,296,33,pascalw,304603
+1235539,https://api.github.com/repos/GraylinKim/sc2reader,GraylinKim/sc2reader,A python library that extracts data from various Starcraft II resources to power tools and services for the SC2 community.  Who doesn't want to hack on the games they play?,Python,23,296,296,77,GraylinKim,196774
+1503946,https://api.github.com/repos/rspivak/slimit,rspivak/slimit,SlimIt -  a JavaScript minifier/parser in Python,Python,45,295,295,46,rspivak,56723
+4973632,https://api.github.com/repos/pydata/patsy,pydata/patsy,Describing statistical models in Python using symbolic formulas,Python,30,295,295,39,pydata,1284191
+16316451,https://api.github.com/repos/GoogleCloudPlatform/gcloud-python,GoogleCloudPlatform/gcloud-python,Google Cloud Client Library for Python,Python,119,294,294,165,GoogleCloudPlatform,2810941
+117188,https://api.github.com/repos/astraw/stdeb,astraw/stdeb,produce Debian packages from Python packages,Python,43,294,294,61,astraw,30176
+1071027,https://api.github.com/repos/paver/paver,paver/paver,Python-based project scripting.,Python,44,293,293,65,paver,477096
+11284456,https://api.github.com/repos/kushaldas/pym,kushaldas/pym,Python for you and me book,Python,26,293,293,139,kushaldas,272303
+22700458,https://api.github.com/repos/syncthing/syncthing-gtk,syncthing/syncthing-gtk,GTK3 & python based GUI for Syncthing,Python,7,293,293,39,syncthing,7628018
+12830126,https://api.github.com/repos/mozillazg/python-pinyin,mozillazg/python-pinyin, Python (pypinyin),Python,3,292,292,55,mozillazg,485054
+1303218,https://api.github.com/repos/Kotti/Kotti,Kotti/Kotti,"Kotti is a high-level, Pythonic web application framework based on Pyramid and SQLAlchemy. It includes an extensible Content Management System called the Kotti CMS.",Python,53,292,292,93,Kotti,2951509
+8949989,https://api.github.com/repos/kronenthaler/mod-pbxproj,kronenthaler/mod-pbxproj,A python module to manipulate XCode projects,Python,11,291,291,115,kronenthaler,513315
+53612484,https://api.github.com/repos/socketubs/requirements,socketubs/requirements,Python requirements made easy,Python,2,291,291,8,socketubs,293337
+8649830,https://api.github.com/repos/paypal/PayPal-Python-SDK,paypal/PayPal-Python-SDK,Python SDK for PayPal RESTful APIs,Python,10,290,290,93,paypal,476675
+38547811,https://api.github.com/repos/black-perl/ptop,black-perl/ptop,An awesome task manager written in python.  :computer:,Python,5,290,290,12,black-perl,5263761
+1347652,https://api.github.com/repos/scoder/lupa,scoder/lupa,Lua in Python,Python,22,289,289,33,scoder,491659
+41179827,https://api.github.com/repos/Rapptz/discord.py,Rapptz/discord.py,An API wrapper for Discord written in Python.,Python,23,289,289,88,Rapptz,1695103
+16120959,https://api.github.com/repos/evennia/evennia,evennia/evennia,Python MUD/MUX/MUSH/MU* development system,Python,41,288,288,192,evennia,1036382
+3573909,https://api.github.com/repos/guessit-io/guessit,guessit-io/guessit,GuessIt is a python library that extracts as much information as possible from a video filename.,Python,24,288,288,35,guessit-io,16108592
+15778059,https://api.github.com/repos/pyca/pyopenssl,pyca/pyopenssl,A Python wrapper around the OpenSSL library,Python,86,287,287,176,pyca,5615737
+718276,https://api.github.com/repos/lionheart/bottlenose,lionheart/bottlenose,"A stable, up-to-date Python wrapper for the Amazon Product Advertising API.",Python,9,287,287,73,lionheart,4284334
+10091388,https://api.github.com/repos/EiNSTeiN-/decompiler,EiNSTeiN-/decompiler,"A decompiler with multiple backend support, written in Python. Works with IDA and Capstone.",Python,6,287,287,56,EiNSTeiN-,2053039
+3727523,https://api.github.com/repos/cyberdelia/metrology,cyberdelia/metrology,A library to easily measure what's going on in your python.,Python,1,286,286,20,cyberdelia,44535
+1864194,https://api.github.com/repos/frappe/frappe,frappe/frappe,Rapid Application Development Framework in Python & JS. Used to build ERPNext,Python,134,285,285,234,frappe,836974
+2719020,https://api.github.com/repos/Dinnerbone/mcstatus,Dinnerbone/mcstatus,A Python class for checking the status of an enabled Minecraft server,Python,12,285,285,85,Dinnerbone,317625
+1113646,https://api.github.com/repos/kurtmckee/feedparser,kurtmckee/feedparser,Parse feeds in Python,Python,17,284,284,84,kurtmckee,39996
+20262870,https://api.github.com/repos/giampaolo/pyftpdlib,giampaolo/pyftpdlib,Extremely fast and scalable Python FTP server library,Python,57,284,284,58,giampaolo,681260
+7175285,https://api.github.com/repos/lmjohns3/theanets,lmjohns3/theanets,Neural network toolkit for Python,Python,14,283,283,69,lmjohns3,53048
+354884,https://api.github.com/repos/cloudmatrix/esky,cloudmatrix/esky,an auto-update framework for frozen python apps,Python,32,283,283,62,cloudmatrix,146600
+48182096,https://api.github.com/repos/appnexus/pyrobuf,appnexus/pyrobuf,A Cython alternative to Google's Python Protobuf library,Python,7,283,283,29,appnexus,1664176
+224955,https://api.github.com/repos/samuel/python-munin,samuel/python-munin,Python framework for building Munin plugins (also includes some plugins prebuilt).,Python,7,281,281,53,samuel,8503
+10285123,https://api.github.com/repos/dhellmann/smiley,dhellmann/smiley,Python Application Tracer,Python,24,280,280,27,dhellmann,43312
+9655401,https://api.github.com/repos/abidrahmank/OpenCV2-Python-Tutorials,abidrahmank/OpenCV2-Python-Tutorials,This repo contains tutorials on OpenCV-Python library using new cv2 interface,Python,68,280,280,243,abidrahmank,678900
+12152452,https://api.github.com/repos/SamyPesse/glass.py,SamyPesse/glass.py,Create python web applications for Google Glass,Python,4,280,280,35,SamyPesse,845425
+327071,https://api.github.com/repos/danielgtaylor/qtfaststart,danielgtaylor/qtfaststart,Quicktime atom positioning in Python for fast streaming,Python,5,280,280,44,danielgtaylor,106826
+41838331,https://api.github.com/repos/joaoricardo000/whatsapp-bot-seed,joaoricardo000/whatsapp-bot-seed,"A small python framework to create a whatsapp bot, with regex-callback message routing.",Python,17,280,280,89,joaoricardo000,2717047
+7232992,https://api.github.com/repos/zachwill/moment,zachwill/moment,Dealing with dates in Python shouldn't have to suck.,Python,6,280,280,12,zachwill,172692
+52313415,https://api.github.com/repos/deepgram/sidomo,deepgram/sidomo,Simple Docker Python Module,Python,1,279,279,17,deepgram,17422641
+2417218,https://api.github.com/repos/jflesch/pyocr,jflesch/pyocr,A Python wrapper for Tesseract and Cuneiform,Python,6,279,279,52,jflesch,135331
+39394658,https://api.github.com/repos/josauder/procedural_city_generation,josauder/procedural_city_generation,Procedural City Generation program implemented in Python and Visualized with Blender.,Python,11,279,279,28,josauder,12648328
+3003791,https://api.github.com/repos/gwik/geventhttpclient,gwik/geventhttpclient,"A high performance, concurrent http client library for python with gevent",Python,19,279,279,68,gwik,11162
+1338173,https://api.github.com/repos/nuxeo/FunkLoad,nuxeo/FunkLoad,"Functional and load testing framework for web applications, written in Python",Python,55,278,278,71,nuxeo,460607
+30367893,https://api.github.com/repos/EntilZha/PyFunctional,EntilZha/PyFunctional,Python library for creating data pipelines with chain functional programming,Python,11,278,278,21,EntilZha,1382460
+9817633,https://api.github.com/repos/Stiivi/bubbles,Stiivi/bubbles,Bubbles  Python ETL framework,Python,13,277,277,42,Stiivi,71105
+2319129,https://api.github.com/repos/avelino/liquidluck,avelino/liquidluck,Felix Felicis (aka liquidluck) is a static blog generator in python,Python,15,277,277,58,avelino,31996
+2233194,https://api.github.com/repos/alimanfoo/petl,alimanfoo/petl,Python Extract Transform and Load Tables of Data,Python,30,276,276,58,alimanfoo,703554
+9921838,https://api.github.com/repos/Blizzard/s2protocol,Blizzard/s2protocol,Python library to decode StarCraft II replay protocols,Python,19,276,276,44,Blizzard,483032
+19495302,https://api.github.com/repos/los-cocos/cocos,los-cocos/cocos,"graphic library for games and multimedia, for python language on PC-like hardware",Python,34,276,276,67,los-cocos,7500666
+684215,https://api.github.com/repos/drkjam/netaddr,drkjam/netaddr,A network address manipulation library for Python,Python,19,275,275,51,drkjam,93508
+35581334,https://api.github.com/repos/closeio/tasktiger,closeio/tasktiger,Python task queue. Because celery is gross.,Python,2,275,275,12,closeio,437267
+2097144,https://api.github.com/repos/gennad/Design-Patterns-in-Python,gennad/Design-Patterns-in-Python,A collection of popular design patterns implemented in Python programming language,Python,3,275,275,78,gennad,394648
+1016685,https://api.github.com/repos/pagekite/PyPagekite,pagekite/PyPagekite,Python implementation of the PageKite remote front-end protocols.,Python,17,275,275,55,pagekite,450431
+2263856,https://api.github.com/repos/jaberg/skdata,jaberg/skdata,Data sets for machine learning in Python,Python,31,274,274,82,jaberg,171276
+319311,https://api.github.com/repos/pinard/Pymacs,pinard/Pymacs,Emacs to Python interface,Python,22,273,273,56,pinard,131405
+3920411,https://api.github.com/repos/OpenRCE/paimei,OpenRCE/paimei,A reverse engineering framework written in Python.,Python,6,273,273,118,OpenRCE,1609235
+12164337,https://api.github.com/repos/googledrive/PyDrive,googledrive/PyDrive,Google Drive API Python wrapper library,Python,36,273,273,83,googledrive,3708359
+326309,https://api.github.com/repos/wimleers/fileconveyor,wimleers/fileconveyor,"File Conveyor is a daemon written in Python to detect, process and sync files. In particular, it's designed to sync files to CDNs. Amazon S3 and Rackspace Cloud Files, as well as any Origin Pull or (S)FTP Push CDN, are supported. Originally written for my bachelor thesis at Hasselt University in Belgium. ",Python,75,272,272,89,wimleers,14240
+14179534,https://api.github.com/repos/jvns/teeceepee,jvns/teeceepee,"mini-TCP stack in Python, for fun",Python,0,271,271,29,jvns,817739
+54238923,https://api.github.com/repos/timofurrer/try,timofurrer/try,:package: Awesome cli tool to try python packages - It's never been easier!,Python,2,271,271,9,timofurrer,1008252
+1471582,https://api.github.com/repos/JulianEberius/SublimeRope,JulianEberius/SublimeRope,"ST2 only, use SublimePythonIDE with ST3: Adds Python completions and some IDE-like functions to Sublime Text 2, through the use of the Rope library",Python,22,271,271,32,JulianEberius,200639
+1186522,https://api.github.com/repos/slacy/minimongo,slacy/minimongo,"A lightweight, Pythonic, Object Oriented Interface to MongoDB.",Python,13,270,270,47,slacy,157238
+2874855,https://api.github.com/repos/perone/stallion,perone/stallion,Stallion - A Python Package Manager,Python,13,270,270,21,perone,412328
+39748713,https://api.github.com/repos/MattVitelli/GRUV,MattVitelli/GRUV,GRUV is a Python project for algorithmic music generation. ,Python,8,270,270,55,MattVitelli,1497817
+35655353,https://api.github.com/repos/michaelliao/learn-python3,michaelliao/learn-python3,Learn Python 3 Sample Code,Python,0,269,269,372,michaelliao,470058
+259531,https://api.github.com/repos/tow/sunburnt,tow/sunburnt,Python interface to Solr,Python,33,269,269,91,tow,8143
+1663788,https://api.github.com/repos/ProgVal/Limnoria,ProgVal/Limnoria,"A modified version of Supybot (an IRC bot) with Python 3 and IRCv3 support, embedded web server, translations (fr, fi, it, hu, de), and many other enhancements and bug fixes",Python,219,269,269,103,ProgVal,406946
+13694352,https://api.github.com/repos/dimka665/awesome-slugify,dimka665/awesome-slugify,Python flexible slugify function,Python,8,268,268,15,dimka665,1578066
+4802028,https://api.github.com/repos/jiffyclub/snakeviz,jiffyclub/snakeviz,An in-browser Python profile viewer,Python,14,268,268,37,jiffyclub,920492
+1575319,https://api.github.com/repos/inducer/pycuda,inducer/pycuda,"CUDA integration for Python, plus shiny features",Python,16,268,268,72,inducer,352067
+668477,https://api.github.com/repos/iamteem/redisco,iamteem/redisco,A Python Library for Simple Models and Containers Persisted in Redis ,Python,25,268,268,111,iamteem,4166
+4382976,https://api.github.com/repos/cocagne/paxos,cocagne/paxos,Plain Paxos Implementations in Python & Java,Python,0,267,267,45,cocagne,1756028
+18508013,https://api.github.com/repos/pyflakes/pyflakes,pyflakes/pyflakes,A simple program which checks Python source files for errors.,Python,7,267,267,35,pyflakes,7191302
+318058,https://api.github.com/repos/twisted/txmongo,twisted/txmongo,asynchronous python driver for mongo,Python,12,266,266,73,twisted,716546
+1738549,https://api.github.com/repos/cobrateam/django-htmlmin,cobrateam/django-htmlmin,"HTML minifier for Python frameworks (not only Django, despite the name).",Python,33,266,266,53,cobrateam,403905
+185810,https://api.github.com/repos/paulgb/simplediff,paulgb/simplediff,"Simple Diff Function implemented in Python, PHP, CoffeeScript, and JavaScript",Python,3,266,266,57,paulgb,46173
+9667957,https://api.github.com/repos/pixelogik/NearPy,pixelogik/NearPy,"Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes.",Python,15,266,266,76,pixelogik,968919
+4199350,https://api.github.com/repos/rahims/SoCo,rahims/SoCo,SoCo (Sonos Controller) is a simple Python class that allows you to programmatically control Sonos speakers.,Python,4,266,266,34,rahims,111628
+3972591,https://api.github.com/repos/yoavaviram/python-amazon-simple-product-api,yoavaviram/python-amazon-simple-product-api,A simple Python wrapper for the Amazon.com Product Advertising API,Python,4,265,265,98,yoavaviram,537092
+132401,https://api.github.com/repos/ella/ella,ella/ella,Ella is a CMS based on Python web framework Django with a main focus on high-traffic news websites and Internet magazines.,Python,12,265,265,64,ella,55843
+11869469,https://api.github.com/repos/pycurl/pycurl,pycurl/pycurl,PycURL - Python interface to libcurl,Python,23,264,264,87,pycurl,1510177
+18271410,https://api.github.com/repos/takluyver/pynsist,takluyver/pynsist,Build Windows installers for Python applications,Python,11,264,264,24,takluyver,327925
+20141146,https://api.github.com/repos/jw2013/Leetcode-Py,jw2013/Leetcode-Py,And they say Python is slow...,Python,1,263,263,119,jw2013,1841581
+7977016,https://api.github.com/repos/geduldig/TwitterAPI,geduldig/TwitterAPI,Minimal python wrapper for Twitter's REST and Streaming APIs,Python,0,263,263,116,geduldig,2967359
+8365542,https://api.github.com/repos/randomchars/pushbullet.py,randomchars/pushbullet.py,A python client for http://pushbullet.com,Python,8,263,263,50,randomchars,1180955
+4372437,https://api.github.com/repos/twisted/treq,twisted/treq,Python requests like API built on top of Twisted's HTTP client.,Python,30,262,262,69,twisted,716546
+45949,https://api.github.com/repos/orestis/pysmell,orestis/pysmell,PySmell is an attempt to create an IDE completion helper for python.,Python,5,262,262,17,orestis,9217
+12279254,https://api.github.com/repos/cudamat/cudamat,cudamat/cudamat,Python module for performing basic dense linear algebra computations on the GPU using CUDA.,Python,11,261,261,101,cudamat,5281810
+13547040,https://api.github.com/repos/jonathanslenders/asyncio-redis,jonathanslenders/asyncio-redis,Redis client for Python asyncio (PEP 3156),Python,25,260,260,36,jonathanslenders,216638
+40675796,https://api.github.com/repos/getsentry/rb,getsentry/rb,Routing and connection management for Redis in Python,Python,4,260,260,18,getsentry,1396951
+3723689,https://api.github.com/repos/kroger/pyknon,kroger/pyknon,Simple Python library to generate music in a hacker friendly way.,Python,2,260,260,25,kroger,178936
+37417938,https://api.github.com/repos/REMitchell/python-scraping,REMitchell/python-scraping,Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do,Python,9,260,260,202,REMitchell,468917
+28473847,https://api.github.com/repos/coleifer/walrus,coleifer/walrus,Lightweight Python utilities for working with Redis,Python,2,260,260,15,coleifer,119974
+2535974,https://api.github.com/repos/jmoiron/humanize,jmoiron/humanize,python humanize functions,Python,13,259,259,42,jmoiron,218132
+1575307,https://api.github.com/repos/pyopencl/pyopencl,pyopencl/pyopencl,"OpenCL integration for Python, plus shiny features",Python,10,259,259,80,pyopencl,5459728
+2521416,https://api.github.com/repos/mLewisLogic/foursquare,mLewisLogic/foursquare,The Foursquare API client for Python,Python,0,258,258,90,mLewisLogic,311322
+919881,https://api.github.com/repos/joshmarshall/jsonrpclib,joshmarshall/jsonrpclib,A Python JSON-RPC over HTTP that mirrors xmlrpclib syntax.,Python,39,258,258,105,joshmarshall,279955
+6794278,https://api.github.com/repos/scanny/python-pptx,scanny/python-pptx,Create Open XML PowerPoint documents in Python,Python,78,258,258,79,scanny,2062718
+376878,https://api.github.com/repos/Yelp/Testify,Yelp/Testify,A more pythonic testing framework.,Python,16,257,257,64,Yelp,49071
+3154853,https://api.github.com/repos/niklasb/dryscrape,niklasb/dryscrape,"A lightweight Python library that uses Webkit to enable easy scraping of dynamic, Javascript-heavy web pages",Python,9,257,257,23,niklasb,94819
+10670267,https://api.github.com/repos/amol-mandhane/htmlPy,amol-mandhane/htmlPy,"htmlPy is a wrapper around PySide's QtWebKit library. It helps with creating beautiful GUIs using HTML5, CSS3 and Javascript for standalone Python applications.",Python,4,257,257,7,amol-mandhane,1002513
+24275324,https://api.github.com/repos/winpython/winpython,winpython/winpython,"A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.",Python,23,256,256,37,winpython,8850436
+44477214,https://api.github.com/repos/sweetsoftware/Ares,sweetsoftware/Ares,Python botnet and backdoor,Python,1,255,255,103,sweetsoftware,7887442
+25216588,https://api.github.com/repos/fluentpython/example-code,fluentpython/example-code,Example code for the book Fluent Python,Python,1,255,255,85,fluentpython,9216311
+12697914,https://api.github.com/repos/kirang89/bootstrapy,kirang89/bootstrapy,"A bootstrap Python application, so that you can focus on writing code",Python,0,255,255,27,kirang89,1074304
+14645,https://api.github.com/repos/dbr/tvdb_api,dbr/tvdb_api,"Simple to use TVDB (thetvdb.com) API in Python. The automatic TV episode namer ""tvnamer"" is now in a separate repository http://github.com/dbr/tvnamer",Python,10,255,255,53,dbr,509
+29104125,https://api.github.com/repos/jrosebr1/imutils,jrosebr1/imutils,"A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.",Python,1,255,255,51,jrosebr1,759645
+3153959,https://api.github.com/repos/scikit-learn-contrib/lightning,scikit-learn-contrib/lightning,"Large-scale linear classification, regression and ranking in Python",Python,21,254,254,49,scikit-learn-contrib,17349883
+8250904,https://api.github.com/repos/JulianEberius/SublimePythonIDE,JulianEberius/SublimePythonIDE,"ST3 only: A rewrite of SublimeRope for ST3, uses the Rope library to add python completions and refactoring to ST3",Python,10,254,254,35,JulianEberius,200639
+481525,https://api.github.com/repos/benoitc/couchdbkit,benoitc/couchdbkit,CouchDB python framework,Python,33,253,253,92,benoitc,14498
+7616669,https://api.github.com/repos/nedbat/byterun,nedbat/byterun,A Python implementation of a Python bytecode runner,Python,4,253,253,51,nedbat,23789
+1600411,https://api.github.com/repos/jsocol/pystatsd,jsocol/pystatsd,A Python client for statsd,Python,4,253,253,93,jsocol,180459
+36662888,https://api.github.com/repos/orf/cyborg,orf/cyborg,Python web scraping framework,Python,1,253,253,39,orf,1027207
+15606309,https://api.github.com/repos/alvations/pywsd,alvations/pywsd,Python Implementations of Word Sense Disambiguation (WSD) Technologies.,Python,5,253,253,49,alvations,1050316
+10534595,https://api.github.com/repos/olipo186/Git-Auto-Deploy,olipo186/Git-Auto-Deploy,"Deploy your GitHub, GitLab or Bitbucket projects automatically on Git push events or webhooks using this small HTTP server written in Python. Continuous deployment in it's most simple form.",Python,8,253,253,71,olipo186,1056476
+38638440,https://api.github.com/repos/hamuchiwa/AutoRCCar,hamuchiwa/AutoRCCar,OpenCV Python Neural Network Autonomous RC Car,Python,2,252,252,95,hamuchiwa,9021941
+23960826,https://api.github.com/repos/jxtech/wechatpy,jxtech/wechatpy,WeChat SDK for Python,Python,13,251,251,99,jxtech,12945147
+23401958,https://api.github.com/repos/EasyIME/PIME,EasyIME/PIME,Develop input methods for Windows easily with Python,Python,45,251,251,40,EasyIME,8572073
+3215654,https://api.github.com/repos/owtf/owtf,owtf/owtf,"OWASP OWTF, the Offensive (Web) Testing Framework, is an OWASP+PTES-focused try to unite great tools and make pen testing more efficient, written mostly in Python @owtfp http://owtf.org",Python,53,251,251,113,owtf,1230211
+19361014,https://api.github.com/repos/svanoort/pyresttest,svanoort/pyresttest,Python Rest Testing,Python,40,250,250,77,svanoort,5400948
+12529706,https://api.github.com/repos/clarete/curdling,clarete/curdling,Concurrent package manager for Python,Python,35,250,250,17,clarete,1459190
+9118795,https://api.github.com/repos/phracker/HopperScripts,phracker/HopperScripts,Python Scripts for use with Hopper Disassembler,Python,0,250,250,53,phracker,2748240
+23716633,https://api.github.com/repos/Zulko/gizeh,Zulko/gizeh,Simple Vector Graphics for Python,Python,13,250,250,18,Zulko,1646122
+9639049,https://api.github.com/repos/ZeevG/python-forecast.io,ZeevG/python-forecast.io,A thin Python Wrapper for the Forecast.io weather API,Python,8,250,250,55,ZeevG,3352419
+32899829,https://api.github.com/repos/trevorstephens/gplearn,trevorstephens/gplearn,"Genetic Programming in Python, with a scikit-learn inspired API",Python,7,250,250,22,trevorstephens,5210848
+45764236,https://api.github.com/repos/nineties/py-videocore,nineties/py-videocore,Python library for GPGPU on Raspberry Pi,Python,0,250,250,5,nineties,172570
+48145768,https://api.github.com/repos/pmbarrett314/curses-menu,pmbarrett314/curses-menu,A simple console menu system in python using the curses library,Python,8,250,250,14,pmbarrett314,5824237
+488711,https://api.github.com/repos/dsc/bunch,dsc/bunch,A Bunch is a Python dictionary that provides attribute-style access (a la JavaScript objects).,Python,27,249,249,49,dsc,47595
+3546794,https://api.github.com/repos/sendgrid/sendgrid-python,sendgrid/sendgrid-python,SendGrid Python Library,Python,5,248,248,119,sendgrid,181234
+1757973,https://api.github.com/repos/mozilla/elasticutils,mozilla/elasticutils,[deprecated] A friendly chainable ElasticSearch interface for python ,Python,49,248,248,82,mozilla,131524
+2918192,https://api.github.com/repos/epsy/clize,epsy/clize,"Clize: Command-line argument parsing for Python, without the effort",Python,5,248,248,13,epsy,685865
+25131903,https://api.github.com/repos/tyarkoni/transitions,tyarkoni/transitions,"A lightweight, object-oriented finite state machine implementation in Python",Python,0,247,247,64,tyarkoni,303932
+31260633,https://api.github.com/repos/andrea-cuttone/geoplotlib,andrea-cuttone/geoplotlib,python toolbox for visualizing geographical data and making maps,Python,4,247,247,22,andrea-cuttone,950065
+17733039,https://api.github.com/repos/sloria/konch,sloria/konch,Configures your Python shell.,Python,0,246,246,6,sloria,2379650
+2303067,https://api.github.com/repos/stefanfoulis/django-phonenumber-field,stefanfoulis/django-phonenumber-field,A django model and form field for normalised phone numbers using python-phonenumbers,Python,4,246,246,130,stefanfoulis,14330
+13136408,https://api.github.com/repos/facebook/pyaib,facebook/pyaib,An easy to use Python Framework (that uses gevent) for writing IRC Bots.,Python,2,246,246,45,facebook,69631
+19346982,https://api.github.com/repos/konlpy/konlpy,konlpy/konlpy,Python package for Korean natural language processing.,Python,20,245,245,56,konlpy,10087397
+15721226,https://api.github.com/repos/syrusakbary/interpy,syrusakbary/interpy,Ruby like string interpolation #{} in Python,Python,7,245,245,13,syrusakbary,188257
+100428,https://api.github.com/repos/breily/juno,breily/juno,a lightweight and simple python web framework,Python,2,245,245,19,breily,1363
+331547,https://api.github.com/repos/mfenniak/pyPdf,mfenniak/pyPdf,"Pure-Python PDF Library; this repository is no longer maintained, please see https://github.com/knowah/PyPDF2/ insead.",Python,38,245,245,82,mfenniak,91093
+943700,https://api.github.com/repos/gstarnberger/uncompyle,gstarnberger/uncompyle,Python decompiler,Python,15,244,244,224,gstarnberger,48601
+14823414,https://api.github.com/repos/python-rope/rope,python-rope/rope,a python refactoring library,Python,43,244,244,51,python-rope,6073454
+30149358,https://api.github.com/repos/regebro/supporting-python-3,regebro/supporting-python-3,Supporting Python 3,Python,7,244,244,13,regebro,820596
+9524363,https://api.github.com/repos/paylogic/pip-accel,paylogic/pip-accel,"pip-accel: Accelerator for pip, the Python package manager",Python,8,244,244,24,paylogic,1553993
+2585564,https://api.github.com/repos/misja/python-boilerpipe,misja/python-boilerpipe,"Python interface to Boilerpipe, Boilerplate Removal and Fulltext Extraction from HTML pages",Python,22,244,244,70,misja,36168
+52671170,https://api.github.com/repos/rhiever/datacleaner,rhiever/datacleaner,A Python tool that automatically cleans data sets and readies them for analysis.,Python,2,244,244,23,rhiever,1719223
+9419223,https://api.github.com/repos/frida/frida-python,frida/frida-python,Frida python bindings,Python,14,243,243,33,frida,4073090
+2651457,https://api.github.com/repos/lzyy/chat,lzyy/chat,a live chat built with python(flask + gevent + apscheduler) + redis,Python,2,243,243,99,lzyy,35974
+15824423,https://api.github.com/repos/Zulko/picnic.py,Zulko/picnic.py,Easy Python packages creation.,Python,1,243,243,13,Zulko,1646122
+4079478,https://api.github.com/repos/gpoore/pythontex,gpoore/pythontex,"A LaTeX package that allows Python code entered within a TeX document to be executed, and the output to be included in the original document.",Python,36,243,243,33,gpoore,1660328
+1288547,https://api.github.com/repos/enthought/mayavi,enthought/mayavi,3D visualization of scientific data in Python,Python,93,242,242,92,enthought,539651
+4387128,https://api.github.com/repos/wbolster/happybase,wbolster/happybase,A developer-friendly Python library to interact with Apache HBase,Python,20,242,242,71,wbolster,748944
+35642474,https://api.github.com/repos/walkr/oi,walkr/oi,python library for writing long running processes with a cli interface,Python,0,242,242,6,walkr,5104850
+5975139,https://api.github.com/repos/rackspace/pyrax,rackspace/pyrax,The Python SDK for the Rackspace Cloud,Python,77,241,241,201,rackspace,3949923
+32181539,https://api.github.com/repos/takluyver/flit,takluyver/flit,Simplified packaging of Python modules,Python,11,241,241,7,takluyver,327925
+9417480,https://api.github.com/repos/dpallot/simple-websocket-server,dpallot/simple-websocket-server,A python based websocket server that is simple and easy to use.,Python,2,241,241,92,dpallot,4145864
+21481825,https://api.github.com/repos/aloctavodia/Doing_bayesian_data_analysis,aloctavodia/Doing_bayesian_data_analysis,Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke,Python,0,241,241,60,aloctavodia,1338958
+770713,https://api.github.com/repos/jaredly/vim-debug,jaredly/vim-debug,A plugin for VIM that creates an Integrated Debugging Environment :) Currently works with PHP and Python,Python,15,241,241,26,jaredly,112170
+34043365,https://api.github.com/repos/fengsp/color-thief-py,fengsp/color-thief-py,Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow.,Python,1,241,241,13,fengsp,2986070
+8292338,https://api.github.com/repos/ultrabug/py3status,ultrabug/py3status,py3status is an extensible i3status wrapper written in python,Python,38,240,240,100,ultrabug,474389
+41043522,https://api.github.com/repos/reubano/meza,reubano/meza,A Python toolkit for processing tabular data,Python,1,240,240,5,reubano,157864
+21404763,https://api.github.com/repos/google/python-adb,google/python-adb,Python ADB + Fastboot implementation,Python,4,239,239,74,google,1342004
+14515912,https://api.github.com/repos/nathancahill/mimicdb,nathancahill/mimicdb,Python implementation of MimicDB,Python,0,239,239,4,nathancahill,1383872
+40253606,https://api.github.com/repos/QuantumFractal/Data-Structure-Zoo,QuantumFractal/Data-Structure-Zoo,An educational repo for students looking to learn about data structures in Python,Python,3,239,239,35,QuantumFractal,2875790
+10435800,https://api.github.com/repos/pysimplesoap/pysimplesoap,pysimplesoap/pysimplesoap,Python Simple SOAP Library,Python,57,238,238,146,pysimplesoap,4592707
+4232356,https://api.github.com/repos/aneesha/RAKE,aneesha/RAKE,A python implementation of the Rapid Automatic Keyword Extraction,Python,10,238,238,122,aneesha,591930
+16850784,https://api.github.com/repos/brettcannon/caniusepython3,brettcannon/caniusepython3,Can I Use Python 3?,Python,2,238,238,23,brettcannon,54418
+13521137,https://api.github.com/repos/morepath/morepath,morepath/morepath,Python web microframework with superpowers,Python,44,238,238,25,morepath,5488202
+32976962,https://api.github.com/repos/recipy/recipy,recipy/recipy,Effortless method to record provenance in Python,Python,51,238,238,15,recipy,11677462
+611251,https://api.github.com/repos/eyeseast/python-tablefu,eyeseast/python-tablefu,A Python version (almost a port) of ProPublica's TableFu,Python,6,238,238,22,eyeseast,25778
+16307,https://api.github.com/repos/duplys/git-issues,duplys/git-issues,"A distributed issue tracking system based on Git repositories, written in Python",Python,7,238,238,38,duplys,483081
+776685,https://api.github.com/repos/gavinandresen/bitcointools,gavinandresen/bitcointools,Python-based tools for the Bitcoin cryptocurrency system,Python,8,237,237,89,gavinandresen,331997
+16034478,https://api.github.com/repos/timothycrosley/frosted,timothycrosley/frosted,A simple program which checks Python source files for errors.,Python,6,237,237,18,timothycrosley,2090154
+15515181,https://api.github.com/repos/sigmavirus24/requests-toolbelt,sigmavirus24/requests-toolbelt,A toolbelt of useful classes and functions to be used with python-requests,Python,12,237,237,42,sigmavirus24,240830
+5433677,https://api.github.com/repos/dahlia/libsass-python,dahlia/libsass-python,A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!,Python,12,236,236,21,dahlia,12431
+1076847,https://api.github.com/repos/Cue/fast-python-pb,Cue/fast-python-pb,Fast Protocol Buffers in python (by using the C++ API),Python,5,236,236,27,Cue,449000
+16036923,https://api.github.com/repos/vaidik/sherlock,vaidik/sherlock,Easy distributed locks for Python with a choice of backends.,Python,8,236,236,11,vaidik,542077
+13971811,https://api.github.com/repos/Imgur/imgurpython,Imgur/imgurpython,The official Imgur python client library,Python,26,235,235,53,Imgur,558067
+946900,https://api.github.com/repos/hay/xml2json,hay/xml2json,Python script converts XML to JSON or the other way around,Python,13,235,235,131,hay,129681
+4514692,https://api.github.com/repos/ianare/exif-py,ianare/exif-py,Easy to use Python module to extract Exif metadata from tiff and jpeg files.,Python,10,235,235,69,ianare,697242
+3249758,https://api.github.com/repos/ojii/pymaging,ojii/pymaging,"Pure Python imaging library with Python 2.6, 2.7, 3.1+ support",Python,14,234,234,22,ojii,141122
+15598526,https://api.github.com/repos/codelucas/flask_reddit,codelucas/flask_reddit,Reddit clone in flask + python. Deployed w/ nginx + gunicorn. View site:,Python,7,234,234,48,codelucas,2288709
+14907048,https://api.github.com/repos/plotdevice/plotdevice,plotdevice/plotdevice,Create 2D graphics on the Mac with Python code,Python,15,234,234,17,plotdevice,6814325
+45840201,https://api.github.com/repos/jjyr/zerotest,jjyr/zerotest,Lazy guy's testing tool. Capture HTTP traffic and generate python integration test for your API server.,Python,1,233,233,10,jjyr,1695400
+10189555,https://api.github.com/repos/Grokzen/redis-py-cluster,Grokzen/redis-py-cluster,Python cluster client for the official cluster support targeted for redis 3.0,Python,9,231,231,74,Grokzen,892309
+1014759,https://api.github.com/repos/autocracy/python-ipy,autocracy/python-ipy,IPy are a Python class and tools for handling of IPv4 and IPv6 addresses and networks. It is similar to Net::IP Perl module.,Python,2,230,230,72,autocracy,87269
+11212493,https://api.github.com/repos/hmason/botomatic,hmason/botomatic,easily create twitter bots in python,Python,4,229,229,23,hmason,17936
+145649,https://api.github.com/repos/heynemann/pyccuracy,heynemann/pyccuracy,Pyccuracy is a BDD-style Web Acceptance Testing framework in Python.,Python,17,229,229,36,heynemann,60965
+75276,https://api.github.com/repos/binaryage/firelogger.py,binaryage/firelogger.py,Python library for FireLogger -  a logger console integrated into Firebug,Python,5,229,229,18,binaryage,70164
+16849748,https://api.github.com/repos/adewes/blitzdb,adewes/blitzdb,Blitz is a document-oriented database for Python that is backend-agnostic. It comes with a flat-file database for JSON documents and provides MongoDB-like querying capabilities.,Python,17,229,229,29,adewes,550026
+1730674,https://api.github.com/repos/sethoscope/heatmap,sethoscope/heatmap,"Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc).",Python,1,228,228,42,sethoscope,534043
+15457437,https://api.github.com/repos/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,A Python Framework For NoSQL Scanning and Exploitation ,Python,2,227,227,51,torque59,6204290
+1853243,https://api.github.com/repos/isagalaev/ijson,isagalaev/ijson,Iterative JSON parser with Pythonic interface,Python,3,227,227,42,isagalaev,99931
+5096308,https://api.github.com/repos/AirSage/Petrel,AirSage/Petrel,"Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python",Python,3,227,227,68,AirSage,1998500
+9590543,https://api.github.com/repos/josiahcarlson/rom,josiahcarlson/rom,Redis object mapper for Python,Python,4,226,226,25,josiahcarlson,209346
+25938759,https://api.github.com/repos/kennethreitz/procs,kennethreitz/procs,"Python, Processes, and Prana.",Python,6,226,226,5,kennethreitz,119893
+3876426,https://api.github.com/repos/Janhouse/tespeed,Janhouse/tespeed,Terminal network speed test that uses servers from Speedtest.net. It uses nearest test server but can also use one manually specified by the user. It should work on Linux/OSX/Windows and anything else that runs Python 2 with Python 2 lxml module.,Python,5,226,226,62,Janhouse,1036439
+2835978,https://api.github.com/repos/ikkebr/PyBozoCrack,ikkebr/PyBozoCrack,A silly & effective MD5 cracker in Python,Python,5,225,225,25,ikkebr,356826
+913279,https://api.github.com/repos/tkrajina/gpxpy,tkrajina/gpxpy,gpx-py is a python GPX parser. GPX (GPS eXchange Format) is a XML based file format for GPS track logs.,Python,2,225,225,79,tkrajina,379243
+2149604,https://api.github.com/repos/timotheus/ebaysdk-python,timotheus/ebaysdk-python,eBay API SDK for Python,Python,23,224,224,128,timotheus,108639
+808385,https://api.github.com/repos/jamesturk/validictory,jamesturk/validictory,general purpose python data validator,Python,7,224,224,60,jamesturk,8034
+4047286,https://api.github.com/repos/kennethreitz/samplemod,kennethreitz/samplemod,Sample module for Python-Guide.org.,Python,1,223,223,81,kennethreitz,119893
+11037154,https://api.github.com/repos/irmen/Pyro4,irmen/Pyro4,Pyro 4.x  - Python remote objects,Python,6,223,223,34,irmen,1771820
+22725061,https://api.github.com/repos/numba/llvmlite,numba/llvmlite,A lightweight LLVM python binding for writing JIT compilers,Python,21,223,223,50,numba,1628082
+2165383,https://api.github.com/repos/sunpy/sunpy,sunpy/sunpy,SunPy - Python for Solar Physics,Python,239,222,222,156,sunpy,963197
+3129838,https://api.github.com/repos/graycatlabs/PyBBIO,graycatlabs/PyBBIO,A Python library for Arduino-style hardware IO support on the Beaglebone,Python,25,222,222,82,graycatlabs,10250374
+7379566,https://api.github.com/repos/picklepete/pyicloud,picklepete/pyicloud,A Python + iCloud wrapper to access iPhone and Calendar data.,Python,5,222,222,63,picklepete,128931
+7415736,https://api.github.com/repos/richardasaurus/imdb-pie,richardasaurus/imdb-pie,Python IMDB client using the IMDB json web service made available for their iOS app.,Python,2,222,222,39,richardasaurus,2279659
+10139778,https://api.github.com/repos/vladris/tinkerer,vladris/tinkerer,Python blogging engine,Python,17,221,221,64,vladris,1176280
+941492,https://api.github.com/repos/lebedov/scikit-cuda,lebedov/scikit-cuda,Python interface to GPU-powered libraries,Python,12,221,221,63,lebedov,218546
+2570420,https://api.github.com/repos/upverter/schematic-file-converter,upverter/schematic-file-converter,A python script that converts between schematic file formats,Python,15,221,221,85,upverter,606211
+230492,https://api.github.com/repos/rupa/j2,rupa/j2,"python version of z, for experimentation",Python,3,221,221,18,rupa,46809
+3679708,https://api.github.com/repos/mirkonasato/pyodconverter,mirkonasato/pyodconverter,Python script to automate document conversions using LibreOffice/OpenOffice.org,Python,6,221,221,122,mirkonasato,133967
+9184612,https://api.github.com/repos/clarete/forbiddenfruit,clarete/forbiddenfruit,Patch built-in python objects,Python,13,221,221,13,clarete,1459190
+9285336,https://api.github.com/repos/ccampbell/chromelogger-python,ccampbell/chromelogger-python,Python library for logging variables to Google Chrome console,Python,5,221,221,13,ccampbell,259316
+362129,https://api.github.com/repos/knipknap/exscript,knipknap/exscript,A Python module making Telnet and SSH easy,Python,17,220,220,79,knipknap,149321
+3144293,https://api.github.com/repos/sublee/trueskill,sublee/trueskill,An implementation of the TrueSkill rating system for Python,Python,0,219,219,19,sublee,19982
+6421720,https://api.github.com/repos/facebook/sparts,facebook/sparts,Prototype python services with as little code as possible,Python,32,219,219,30,facebook,69631
+5651915,https://api.github.com/repos/benoitc/flower,benoitc/flower,collection of modules to build distributed and reliable concurrent systems in Python.,Python,0,219,219,5,benoitc,14498
+4926896,https://api.github.com/repos/diyan/pywinrm,diyan/pywinrm,Python library for Windows Remote Management (WinRM),Python,48,218,218,74,diyan,285644
+6160997,https://api.github.com/repos/danilobellini/audiolazy,danilobellini/audiolazy,Expressive Digital Signal Processing (DSP) package for Python,Python,2,218,218,25,danilobellini,2096474
+26725514,https://api.github.com/repos/veegee/guv,veegee/guv,"A fast event loop like gevent for Python 3, built on greenlets and libuv",Python,12,218,218,11,veegee,1820417
+12968651,https://api.github.com/repos/pgmpy/pgmpy,pgmpy/pgmpy,Python Library for Probabilistic Graphical Models,Python,80,217,217,101,pgmpy,5500131
+5889813,https://api.github.com/repos/iskandr/parakeet,iskandr/parakeet,Runtime compiler for numerical Python ,Python,3,217,217,13,iskandr,48441
+3769696,https://api.github.com/repos/translate/translate,translate/translate,Useful localization tools with Python API for building localization & translation systems,Python,326,217,217,112,translate,1538178
+38918883,https://api.github.com/repos/ylovern/GGTinypng,ylovern/GGTinypng,pngjpgpython,Python,0,217,217,41,ylovern,10728587
+26059969,https://api.github.com/repos/lobocv/pyperform,lobocv/pyperform,An easy and convienent way to performance test python code.,Python,1,217,217,11,lobocv,6772396
+24891366,https://api.github.com/repos/GetStream/stream-django,GetStream/stream-django,"Build activity feeds, newsfeeds and activity streams. Stream-Django is a high level client based on Stream-Python.",Python,18,216,216,23,GetStream,8597527
+5568322,https://api.github.com/repos/bayespy/bayespy,bayespy/bayespy,Bayesian Python: Bayesian inference tools for Python,Python,42,215,215,54,bayespy,2421931
+4196332,https://api.github.com/repos/bigmlcom/python,bigmlcom/python,Simple Python bindings for BigML.io,Python,0,215,215,83,bigmlcom,702185
+14900247,https://api.github.com/repos/skoczen/will,skoczen/will,"Will is a simple, beautiful-to-code python hipchat bot.",Python,43,215,215,105,skoczen,200635
+3817748,https://api.github.com/repos/exaviorn/RasPiWrite,exaviorn/RasPiWrite,A Python Script that prepairs and installs a Raspberry Pi compatiable distro to an SD Card,Python,63,215,215,150,exaviorn,1570715
+9405260,https://api.github.com/repos/kz26/PyExcelerate,kz26/PyExcelerate,Accelerated Excel XLSX Writing Library for Python 2/3,Python,6,215,215,21,kz26,1066494
+48008648,https://api.github.com/repos/Blizzard/heroprotocol,Blizzard/heroprotocol,Python library to decode Heroes of the Storm replay protocols,Python,17,215,215,49,Blizzard,483032
+5363094,https://api.github.com/repos/thearn/Python-Arduino-Command-API,thearn/Python-Arduino-Command-API,A Python library for communicating with Arduino microcontroller boards,Python,5,215,215,56,thearn,1128468
+18500689,https://api.github.com/repos/andrewromanenco/pyjvm,andrewromanenco/pyjvm,Java Virtual Machine implemented in pure python,Python,3,215,215,14,andrewromanenco,1641101
+7673329,https://api.github.com/repos/heroku/simple-salesforce,heroku/simple-salesforce,A very simple Salesforce.com REST API client for Python,Python,38,214,214,119,heroku,23211
+27291222,https://api.github.com/repos/QuantFans/quantdigger,QuantFans/quantdigger,python,Python,4,214,214,138,QuantFans,9996362
+13852452,https://api.github.com/repos/justdark/dml,justdark/dml,"D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency",Python,0,214,214,128,justdark,2044835
+10026965,https://api.github.com/repos/thomasweng15/E.V.E.,thomasweng15/E.V.E.,a talking Jarvis program written in Python.,Python,5,214,214,26,thomasweng15,1114539
+24019627,https://api.github.com/repos/KoffeinFlummi/Chronyk,KoffeinFlummi/Chronyk,A Python 3 library for parsing human-written times and dates,Python,5,214,214,8,KoffeinFlummi,2438809
+37505119,https://api.github.com/repos/jmcarp/nplusone,jmcarp/nplusone,Auto-detecting the n+1 queries problem in Python,Python,1,214,214,4,jmcarp,1633460
+19548750,https://api.github.com/repos/neovim/python-client,neovim/python-client,Python client for Neovim,Python,18,213,213,43,neovim,6471485
+13530047,https://api.github.com/repos/Juniper/py-junos-eznc,Juniper/py-junos-eznc,Python library for Junos automation,Python,19,213,213,127,Juniper,3935164
+2951102,https://api.github.com/repos/twitter/pycascading,twitter/pycascading,A Python wrapper for Cascading,Python,30,213,213,33,twitter,50278
+182356,https://api.github.com/repos/clintecker/python-googleanalytics,clintecker/python-googleanalytics,A python client for accessing the Google Analytics API,Python,7,213,213,61,clintecker,26985
+12110516,https://api.github.com/repos/michaeljoseph/changes,michaeljoseph/changes,changes automates python library release tasks.,Python,10,213,213,12,michaeljoseph,169933
+54834492,https://api.github.com/repos/ResidentMario/missingno,ResidentMario/missingno,Missing data visualization module for Python.,Python,0,213,213,11,ResidentMario,3466341
+829719,https://api.github.com/repos/mcedit/pymclevel,mcedit/pymclevel,Minecraft Levels for Python,Python,58,212,212,75,mcedit,1435184
+3919729,https://api.github.com/repos/OpenRCE/pydbg,OpenRCE/pydbg,A pure-python win32 debugger interface.,Python,4,212,212,102,OpenRCE,1609235
+3795717,https://api.github.com/repos/qiniu/python-sdk,qiniu/python-sdk,Qiniu Resource (Cloud) Storage SDK for Python,Python,11,212,212,109,qiniu,1563636
+15493723,https://api.github.com/repos/KimiNewt/pyshark,KimiNewt/pyshark,"Python wrapper for tshark, allowing python packet parsing using wireshark dissectors",Python,39,212,212,73,KimiNewt,2090554
+17948427,https://api.github.com/repos/Yipit/pyeqs,Yipit/pyeqs,Python Elasticsearch Querysets,Python,4,212,212,6,Yipit,320154
+5319361,https://api.github.com/repos/serkanyersen/underscore.py,serkanyersen/underscore.py,Python port of underscore.js,Python,9,212,212,16,serkanyersen,30582
+10184186,https://api.github.com/repos/mkeeter/kokopelli,mkeeter/kokopelli,Script-based CAD/CAM in Python,Python,7,211,211,26,mkeeter,745333
+23028387,https://api.github.com/repos/bslatkin/effectivepython,bslatkin/effectivepython,Effective Python: Source Code and Errata for the Book,Python,2,211,211,68,bslatkin,68086
+1676708,https://api.github.com/repos/discogs/discogs_client,discogs/discogs_client,Official Python Client for the Discogs API,Python,3,210,210,75,discogs,194096
+17410607,https://api.github.com/repos/GeospatialPython/pyshp,GeospatialPython/pyshp,This library reads and writes ESRI Shapefiles in pure Python.,Python,38,210,210,68,GeospatialPython,5385450
+650095,https://api.github.com/repos/versae/neo4j-rest-client,versae/neo4j-rest-client,Object-oriented Python library to interact with Neo4j standalone REST server,Python,9,210,210,58,versae,173537
+3477409,https://api.github.com/repos/abidrahmank/OpenCV2-Python,abidrahmank/OpenCV2-Python,Contains some Python Samples with new cv2 interface of OpenCV,Python,1,209,209,124,abidrahmank,678900
+10952040,https://api.github.com/repos/cypreess/python-rex,cypreess/python-rex,Python Regular Expressions for Humans.,Python,4,209,209,13,cypreess,1564334
+4568688,https://api.github.com/repos/rspivak/csdesign,rspivak/csdesign,Simple examples of concurrent server design in Python,Python,0,209,209,16,rspivak,56723
+130445,https://api.github.com/repos/araile/see,araile/see,dir for humans. A library for Python 2 and 3.,Python,0,209,209,13,araile,14365947
+18916067,https://api.github.com/repos/nprapps/copytext,nprapps/copytext,A library for accessing a spreadsheet as a native Python object suitable for templating.,Python,5,209,209,19,nprapps,1858904
+29101908,https://api.github.com/repos/alehander42/hermetic,alehander42/hermetic,":ear: a python-like language with hindley-milner-like type system, which is compiled to c",Python,1,209,209,7,alehander42,830715
+29050338,https://api.github.com/repos/mementum/backtrader,mementum/backtrader,Python Backtesting library for trading strategies,Python,4,208,208,45,mementum,5713511
+12908123,https://api.github.com/repos/jplana/python-etcd,jplana/python-etcd,A python client for etcd,Python,26,207,207,108,jplana,597255
+2747330,https://api.github.com/repos/rohe/pyoidc,rohe/pyoidc,A complete OpenID Connect implementation in Python,Python,38,207,207,66,rohe,99900
+1569051,https://api.github.com/repos/jgarzik/pyminer,jgarzik/pyminer,Python miner for bitcoin,Python,6,206,206,71,jgarzik,494411
+26025668,https://api.github.com/repos/mapbox/pyskel,mapbox/pyskel,Skeleton of a Python package,Python,0,206,206,21,mapbox,600935
+904222,https://api.github.com/repos/richardhenry/hotqueue,richardhenry/hotqueue,HotQueue is a Python library that allows you to use Redis as a message queue within your Python programs.,Python,3,206,206,30,richardhenry,63480
+6093450,https://api.github.com/repos/arokem/python-matlab-bridge,arokem/python-matlab-bridge,A simple Python => MATLAB(R) interface and a matlab_magic for ipython,Python,37,206,206,52,arokem,118582
+7182417,https://api.github.com/repos/coreylynch/pyFM,coreylynch/pyFM,Factorization machines in python,Python,6,205,205,59,coreylynch,481441
+892815,https://api.github.com/repos/achillean/shodan-python,achillean/shodan-python,The official Python library for Shodan,Python,7,205,205,65,achillean,373864
+5731348,https://api.github.com/repos/obspy/obspy,obspy/obspy,ObsPy: A Python Toolbox for seismology/seismological observatories.,Python,148,205,205,151,obspy,1701221
+25874460,https://api.github.com/repos/marcusbuffett/command-line-chess,marcusbuffett/command-line-chess,A python program to play chess against an AI in the terminal.,Python,3,205,205,77,marcusbuffett,1834328
+42806479,https://api.github.com/repos/dennybritz/rnn-tutorial-rnnlm,dennybritz/rnn-tutorial-rnnlm,"Recurrent Neural Network Tutorial, Part 2 - Implementing a RNN in Python and Theano",Python,2,205,205,97,dennybritz,403133
+25051808,https://api.github.com/repos/programa-stic/snapchat-decrypt,programa-stic/snapchat-decrypt,Python script for decrypting stored images from Snapchat version 5.0.34.nn,Python,7,205,205,28,programa-stic,5522055
+5116668,https://api.github.com/repos/igorgue/pjson,igorgue/pjson,Like python -mjson.tool but with moar colors (and less conf),Python,0,205,205,24,igorgue,7014
+9051843,https://api.github.com/repos/linsomniac/python-memcached,linsomniac/python-memcached,A python memcached client library.,Python,26,204,204,101,linsomniac,466380
+11439734,https://api.github.com/repos/sigmavirus24/betamax,sigmavirus24/betamax,A VCR imitation designed only for python-requests.,Python,8,204,204,27,sigmavirus24,240830
+8490649,https://api.github.com/repos/Anorov/cloudflare-scrape,Anorov/cloudflare-scrape,"A small Python module to bypass Cloudflare's anti-bot page, using Requests.",Python,5,204,204,43,Anorov,935203
+20933413,https://api.github.com/repos/stefanoborini/vai,stefanoborini/vai,"Vai editor. A text based IDE similar to vim, in python.",Python,62,204,204,11,stefanoborini,132967
+179358,https://api.github.com/repos/ask/python-github2,ask/python-github2,"github client in python, with issues support.",Python,1,203,203,67,ask,1558
+15168264,https://api.github.com/repos/biocore/scikit-bio,biocore/scikit-bio,"scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.",Python,165,203,203,96,biocore,6241857
+24616128,https://api.github.com/repos/wit-ai/pywit,wit-ai/pywit,Python library for Wit.ai,Python,6,202,202,52,wit-ai,4723433
+298256,https://api.github.com/repos/andreisavu/mongodb-log,andreisavu/mongodb-log,MongoDB python logging handler. Python centralized logging made easy. ,Python,4,202,202,53,andreisavu,55869
+4207383,https://api.github.com/repos/quick2wire/quick2wire-python-api,quick2wire/quick2wire-python-api,Python API for controlling GPIO and I2C devices connected to the Raspberry Pi,Python,28,202,202,66,quick2wire,1454015
+12731881,https://api.github.com/repos/ehmatthes/intro_programming,ehmatthes/intro_programming,"A set of IPython notebooks and learning resources for an Introduction to Programming class, focusing on Python. ",Python,28,202,202,59,ehmatthes,1886842
+855503,https://api.github.com/repos/rmmh/skybot,rmmh/skybot,Python IRC bot,Python,14,201,201,177,rmmh,211868
+2316571,https://api.github.com/repos/lukecyca/pyzabbix,lukecyca/pyzabbix,Python Zabbix API,Python,0,201,201,103,lukecyca,366484
+41381209,https://api.github.com/repos/seemethere/nba_py,seemethere/nba_py,Python client for NBA statistics located at stats.nba.com,Python,5,201,201,63,seemethere,1700823
+27832719,https://api.github.com/repos/iiSeymour/chromote,iiSeymour/chromote,Simple wrapper to drive Google Chrome from Python,Python,1,201,201,12,iiSeymour,4310904
+7376072,https://api.github.com/repos/RaymiiOrg/NoPriv,RaymiiOrg/NoPriv,"NoPriv.py is a python script to backup any IMAP capable email account to a HTML archive, nicely browsable, instead of weird folders (Maildir), one huge file (mbox), only needing a web browser to view (thunderbird) and no propritary code, so you can make sure I don't steal your password.",Python,13,201,201,36,RaymiiOrg,1927494
+3454055,https://api.github.com/repos/stochastic-technologies/goatfish,stochastic-technologies/goatfish,"A small, schemaless Python ORM that is backed by SQLite.",Python,0,200,200,17,stochastic-technologies,324282
+12796303,https://api.github.com/repos/IQAndreas/github-issues-import,IQAndreas/github-issues-import,"Python script to import issues from one repository into another, either one at a time or all of them at once.",Python,23,200,200,71,IQAndreas,449027
+2188099,https://api.github.com/repos/jquast/x84,jquast/x84,"  A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.",Python,32,200,200,27,jquast,972584
+619436,https://api.github.com/repos/theanti9/PyCrawler,theanti9/PyCrawler,A python web crawler,Python,5,199,199,108,theanti9,92476
+1985351,https://api.github.com/repos/frewsxcv/python-geojson,frewsxcv/python-geojson,Python bindings and utilities for GeoJSON,Python,10,199,199,28,frewsxcv,416575
+1531547,https://api.github.com/repos/andrix/python-snappy,andrix/python-snappy,Python bindings for the snappy google library,Python,12,199,199,31,andrix,283623
+18357535,https://api.github.com/repos/blue-yonder/pyscaffold,blue-yonder/pyscaffold,Python project template generator with batteries included,Python,5,199,199,26,blue-yonder,6234170
+4006131,https://api.github.com/repos/reclosedev/requests-cache,reclosedev/requests-cache,Transparent persistent cache for http://python-requests.org/ library,Python,9,199,199,38,reclosedev,660112
+12270094,https://api.github.com/repos/tonysimpson/nanomsg-python,tonysimpson/nanomsg-python,nanomsg wrapper for python with multiple backends (CPython and ctypes) should support 2/3 and Pypy,Python,24,199,199,41,tonysimpson,140212
+36619038,https://api.github.com/repos/j91321/rext,j91321/rext,Router EXploitation Toolkit - small toolkit for easy creation and usage of various python scripts that work with embedded devices.,Python,1,199,199,64,j91321,10012872
+5832751,https://api.github.com/repos/mk-fg/python-onedrive,mk-fg/python-onedrive,"Obsolete python/cli module for MS SkyDrive/OneDrive's old API, do not use for new projects",Python,0,199,199,39,mk-fg,227121
+7533020,https://api.github.com/repos/logpy/logpy,logpy/logpy,Logic Programming in Python,Python,12,198,198,20,logpy,3117678
+5532251,https://api.github.com/repos/SeTeM/pync,SeTeM/pync,Python wrapper for Mac OS 10.8 Notification Center,Python,7,198,198,17,SeTeM,461480
+3472837,https://api.github.com/repos/orcasgit/python-fitbit,orcasgit/python-fitbit,Fitbit API Python Client Implementation,Python,10,197,197,103,orcasgit,9833
+3000622,https://api.github.com/repos/doloopwhile/PyExecJS,doloopwhile/PyExecJS,Run JavaScript code from Python,Python,5,197,197,33,doloopwhile,1269088
+1578724,https://api.github.com/repos/jgarzik/python-bitcoinrpc,jgarzik/python-bitcoinrpc,Python interface to bitcoin's JSON-RPC API,Python,15,197,197,107,jgarzik,494411
+3933208,https://api.github.com/repos/jtauber/dcpu16py,jtauber/dcpu16py,"A Python implementation of Notch's DCPU-16 (complete with assembler, disassembler, debugger and video terminal implementations)",Python,3,197,197,22,jtauber,24426
+20022094,https://api.github.com/repos/python-effect/effect,python-effect/effect,"effect isolation in Python, to facilitate more purely functional code",Python,12,196,196,10,python-effect,10263668
+1504670,https://api.github.com/repos/splunk/splunk-sdk-python,splunk/splunk-sdk-python,Splunk Software Development Kit for Python,Python,10,195,195,80,splunk,651467
+47506240,https://api.github.com/repos/ntucllab/libact,ntucllab/libact,Pool-based active learning in Python,Python,18,195,195,34,ntucllab,16298353
+17256840,https://api.github.com/repos/justinmeister/The-Stolen-Crown-RPG,justinmeister/The-Stolen-Crown-RPG,A fantasy mini-RPG built with Python and Pygame.,Python,0,195,195,40,justinmeister,5325552
+36397177,https://api.github.com/repos/gouthambs/Flask-Blogging,gouthambs/Flask-Blogging,A Markdown Based Python Blog Engine as a Flask Extension.,Python,22,195,195,33,gouthambs,4218827
+7504066,https://api.github.com/repos/EarToEarOak/RTLSDR-Scanner,EarToEarOak/RTLSDR-Scanner,A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library,Python,4,195,195,38,EarToEarOak,3195316
+1911482,https://api.github.com/repos/PySide/Examples,PySide/Examples,Python script examples adapted for PySide.,Python,6,194,194,122,PySide,534804
+2495573,https://api.github.com/repos/maraujop/requests-oauth,maraujop/requests-oauth,Python's Requests OAuth (Open Authentication) plugin,Python,17,194,194,32,maraujop,252257
+14768750,https://api.github.com/repos/michaelliao/learn-python,michaelliao/learn-python,Python,Python,0,194,194,282,michaelliao,470058
+422097,https://api.github.com/repos/myano/jenni,myano/jenni,jenni is a python IRC bot maintained and developed by Michael Yanovich. This project was created by Sean B. Palmer.,Python,34,194,194,104,myano,166297
+15037172,https://api.github.com/repos/ikreymer/pywb,ikreymer/pywb,Python WayBack for web archive replay and url-rewriting HTTP/S web proxy,Python,16,194,194,20,ikreymer,1015759
+8412355,https://api.github.com/repos/princehaku/pyrailgun,princehaku/pyrailgun,Simple And Easy Python Crawl Frameworkjavascriptpython,Python,3,193,193,114,princehaku,2002087
+561930,https://api.github.com/repos/satanas/Turpial,satanas/Turpial,"Twitter client written in Python. Light, fast, fully functional and integrated to the user desktop",Python,86,193,193,51,satanas,29679
+29760818,https://api.github.com/repos/duerrp/pyexperiment,duerrp/pyexperiment,Run experiments with Python - quick and clean.,Python,0,193,193,7,duerrp,2012334
+12531160,https://api.github.com/repos/chriskiehl/pyrobot,chriskiehl/pyrobot,A pure python windows automation library loosely modeled after Java's Robot Class. ,Python,4,193,193,21,chriskiehl,1408720
+33655518,https://api.github.com/repos/ipython/ipyparallel,ipython/ipyparallel,Interactive Parallel Computing in Python,Python,27,192,192,81,ipython,230453
+1301584,https://api.github.com/repos/mne-tools/mne-python,mne-tools/mne-python,MNE : Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python,Python,189,192,192,183,mne-tools,583875
+26876372,https://api.github.com/repos/dateutil/dateutil,dateutil/dateutil,Useful extensions to the standard Python datetime features,Python,47,192,192,58,dateutil,9849410
+3757308,https://api.github.com/repos/Mic92/python-mpd2,Mic92/python-mpd2,Python library which provides a client interface for the Music Player Daemon.,Python,8,192,192,112,Mic92,96200
+2190279,https://api.github.com/repos/baijum/selenium-python,baijum/selenium-python,Selenium Python Bindings Documentation,Python,0,190,190,118,baijum,121129
+972863,https://api.github.com/repos/maxcutler/python-wordpress-xmlrpc,maxcutler/python-wordpress-xmlrpc,Python library for WordPress XML-RPC integration,Python,43,190,190,67,maxcutler,291508
+11423307,https://api.github.com/repos/pybee/bugjar,pybee/bugjar,A interactive graphical debugger for Python code.,Python,14,190,190,15,pybee,5001767
+2190638,https://api.github.com/repos/bartdag/pymining,bartdag/pymining,A few data mining algorithms in pure python,Python,3,190,190,42,bartdag,464322
+2127180,https://api.github.com/repos/jdan/Melopy,jdan/Melopy,Python music library,Python,4,189,189,27,jdan,287268
+20556335,https://api.github.com/repos/fmfn/BayesianOptimization,fmfn/BayesianOptimization,A Python implementation of global optimization with gaussian processes.,Python,5,189,189,50,fmfn,7664252
+158207,https://api.github.com/repos/ask/carrot,ask/carrot,AMQP Messaging Framework for Python (discontinued; Use Kombu instead),Python,10,188,188,29,ask,1558
+40271492,https://api.github.com/repos/urbenlegend/netimpair,urbenlegend/netimpair,An easy-to-use network impairment script for Linux written in Python,Python,1,188,188,9,urbenlegend,241316
+34877469,https://api.github.com/repos/klen/py-frameworks-bench,klen/py-frameworks-bench,Another benchmark for some python frameworks,Python,2,187,187,18,klen,90699
+17608968,https://api.github.com/repos/jtushman/state_machine,jtushman/state_machine,Python State Machine for humans,Python,8,187,187,15,jtushman,176888
+51867244,https://api.github.com/repos/NathanEpstein/Dora,NathanEpstein/Dora,Tools for exploratory data analysis in Python,Python,0,187,187,12,NathanEpstein,3989198
+273600,https://api.github.com/repos/kfdm/gntp,kfdm/gntp,GNTP Python Library - #growl #gntp,Python,2,186,186,17,kfdm,89725
+14682501,https://api.github.com/repos/zTrix/zio,zTrix/zio,unified io lib for pwning development written in python,Python,4,186,186,59,zTrix,471934
+24061376,https://api.github.com/repos/google/transitfeed,google/transitfeed,"A Python library for reading, validating, and writing transit schedule information in the GTFS format.",Python,143,186,186,56,google,1342004
+1046298,https://api.github.com/repos/abunsen/Paython,abunsen/Paython,"ActiveMerchant rip off in Python created by Auston Bunsen, with help from Igor Guerrero & a handful of others. Fork me & improve me!",Python,4,186,186,34,abunsen,93429
+3685662,https://api.github.com/repos/senko/python-video-converter,senko/python-video-converter,Python Video Converter (ffmpeg wrapper),Python,19,185,185,104,senko,3362
+40428474,https://api.github.com/repos/RealHacker/python-gems,RealHacker/python-gems,Beautifully constructed python scripts,Python,0,185,185,50,RealHacker,4749419
+17021261,https://api.github.com/repos/mitsuhiko/python-geoip,mitsuhiko/python-geoip,GeoIP database access for Python under a BSD license.,Python,6,185,185,21,mitsuhiko,7396
+6210553,https://api.github.com/repos/psd-tools/psd-tools,psd-tools/psd-tools,Python package for reading Adobe Photoshop PSD files,Python,19,183,183,52,psd-tools,14063009
+2884603,https://api.github.com/repos/kivy/kivy-ios,kivy/kivy-ios,Toolchain for compiling Python / Kivy / other libraries for iOS,Python,29,183,183,75,kivy,1266152
+10960144,https://api.github.com/repos/ptone/jiffylab,ptone/jiffylab,zero configuration Python/Unix web based teaching env,Python,19,183,183,21,ptone,40845
+35882519,https://api.github.com/repos/zalando/connexion,zalando/connexion,Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support,Python,9,183,183,41,zalando,1564818
+13900112,https://api.github.com/repos/brechtm/rinohtype,brechtm/rinohtype,The Python document processor,Python,7,182,182,9,brechtm,652887
+45693656,https://api.github.com/repos/jundongl/scikit-feature,jundongl/scikit-feature,oepn-source feature selection repository in python (DMML Lab@ASU),Python,4,182,182,34,jundongl,10163779
+117576,https://api.github.com/repos/suryasev/unofficial-google-trends-api,suryasev/unofficial-google-trends-api,Python-based API that uses the http site to download Google Trends data,Python,8,182,182,64,suryasev,50299
+8755880,https://api.github.com/repos/mengu/contact_importer,mengu/contact_importer,"A Python library to import contacts from Gmail, Yahoo and Live accounts.",Python,2,182,182,32,mengu,113091
+35543260,https://api.github.com/repos/Skycrab/weixin-knife,Skycrab/weixin-knife,weixin python framework,Python,0,181,181,79,Skycrab,1755025
+5578223,https://api.github.com/repos/dreadatour/Flake8Lint,dreadatour/Flake8Lint,Sublime Text plugin for lint Python files,Python,9,181,181,47,dreadatour,214897
+274673,https://api.github.com/repos/gak/pygooglechart,gak/pygooglechart,pygooglechart is a complete Python wrapper for the Google Chart API.,Python,9,181,181,53,gak,31338
+9979119,https://api.github.com/repos/gwpy/gwpy,gwpy/gwpy,Package for analysing and characterising gravitational wave data in python,Python,17,181,181,55,gwpy,5383739
+759484,https://api.github.com/repos/proycon/pynlpl,proycon/pynlpl,"PyNLPl, pronounced as 'pineapple', is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for basic tasks such as the extraction of n-grams and frequency lists, and to build simple language model. There are also more complex data types and algorithms. Moreover, there are parsers for file formats common in NLP (e.g. FoLiA/Giza/Moses/ARPA/Timbl/CQL). There are also clients to interface with various NLP specific servers. PyNLPl most notably features a very extensive library for working with FoLiA XML (Format for Linguistic Annotation).",Python,0,181,181,29,proycon,75427
+3670554,https://api.github.com/repos/kingwkb/readability,kingwkb/readability,a python readability,Python,0,180,180,40,kingwkb,1519969
+3230445,https://api.github.com/repos/trevp/tlslite,trevp/tlslite,TLS Library in python,Python,15,180,180,64,trevp,726301
+20444271,https://api.github.com/repos/lijiejie/htpwdScan,lijiejie/htpwdScan,A python HTTP weak pass scanner,Python,4,180,180,163,lijiejie,3167953
+2910860,https://api.github.com/repos/m-labs/migen,m-labs/migen,A Python toolbox for building complex digital hardware,Python,7,180,180,41,m-labs,116047
+13769660,https://api.github.com/repos/stephenmcd/hot-redis,stephenmcd/hot-redis,Rich Python data types for Redis,Python,1,180,180,13,stephenmcd,116385
+26899794,https://api.github.com/repos/4refr0nt/luatool,4refr0nt/luatool,Small python script for loading init.lua to ESP8266 nodemcu firmware,Python,18,180,180,67,4refr0nt,550871
+11251830,https://api.github.com/repos/waawal/undead,waawal/undead,Dead Easy POSIX Daemons for Python (POC),Python,0,180,180,2,waawal,961734
+10256919,https://api.github.com/repos/stan-dev/pystan,stan-dev/pystan,PyStan: Python interface to Stan,Python,37,179,179,41,stan-dev,3374820
+21303988,https://api.github.com/repos/pycontribs/jira,pycontribs/jira,Python JIRA Library is the easiest way to automate JIRA.,Python,39,179,179,113,pycontribs,1846087
+19206529,https://api.github.com/repos/mitsuhiko/python-unio,mitsuhiko/python-unio,Unbreaks Unicode on Python,Python,1,179,179,3,mitsuhiko,7396
+1618887,https://api.github.com/repos/erezsh/plyplus,erezsh/plyplus,a friendly yet powerful LR-parser written in Python,Python,4,179,179,45,erezsh,731464
+825715,https://api.github.com/repos/gtaylor/python-colormath,gtaylor/python-colormath,"A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK",Python,6,179,179,28,gtaylor,75556
+17114363,https://api.github.com/repos/colour-science/colour,colour-science/colour,Colour Science for Python,Python,51,178,178,21,colour-science,8414607
+8513858,https://api.github.com/repos/rhiever/reddit-analysis,rhiever/reddit-analysis,"A Python script that parses post titles, self-texts, and comments on reddit and makes word clouds out of the word frequencies.",Python,5,178,178,37,rhiever,1719223
+16058979,https://api.github.com/repos/jlafon/PynamoDB,jlafon/PynamoDB,A pythonic interface to Amazon's DynamoDB,Python,33,177,177,53,jlafon,236514
+16431132,https://api.github.com/repos/dropbox/PyHive,dropbox/PyHive,Python interface to Hive and Presto.,Python,9,177,177,49,dropbox,559357
+12645780,https://api.github.com/repos/smiley/steamapi,smiley/steamapi,An unofficial object-oriented Python library for accessing the Steam Web API.,Python,9,177,177,51,smiley,354181
+24161806,https://api.github.com/repos/spacy-io/cymem,spacy-io/cymem,Gate Cython calls to malloc/free behind Python ref-counted objects,Python,2,177,177,9,spacy-io,12452090
+12444968,https://api.github.com/repos/inueni/birdy,inueni/birdy,A super awesome Twitter API client for Python.,Python,10,176,176,23,inueni,64966
+34921325,https://api.github.com/repos/deltaflyer4747/Xiaomi_Yi,deltaflyer4747/Xiaomi_Yi,Xiaomi Yi Camera settings via python (PC) script,Python,6,176,176,45,deltaflyer4747,7271362
+48742215,https://api.github.com/repos/reubano/pygogo,reubano/pygogo,A Python logging library with super powers,Python,5,176,176,4,reubano,157864
+26162682,https://api.github.com/repos/SirFroweey/PyDark,SirFroweey/PyDark,PyDark is a 2D and Online Multiplayer video game engine written on-top of Python and PyGame.,Python,1,176,176,12,SirFroweey,1275689
+32223460,https://api.github.com/repos/karulis/pybluez,karulis/pybluez,Bluetooth Python extension module,Python,20,175,175,64,karulis,7713356
+6302474,https://api.github.com/repos/rossant/galry,rossant/galry,High-performance interactive visualization in Python,Python,2,175,175,26,rossant,1942359
+7999564,https://api.github.com/repos/richardasaurus/mega.py,richardasaurus/mega.py,Python library for the Mega.co.nz API.,Python,23,175,175,69,richardasaurus,2279659
+5282596,https://api.github.com/repos/SciTools/cartopy,SciTools/cartopy,Cartopy - a cartographic python library with matplotlib support,Python,97,175,175,80,SciTools,1391487
+4721648,https://api.github.com/repos/CFSworks/nimue,CFSworks/nimue,Nimue is a simple Python script for jailbreaking Sony Bravia TVs.,Python,5,175,175,34,CFSworks,700768
+16994945,https://api.github.com/repos/mjhea0/python-ruby,mjhea0/python-ruby,Should I Learn Python or Ruby?,Python,0,175,175,13,mjhea0,2018167
+26944439,https://api.github.com/repos/yajiemiao/pdnn,yajiemiao/pdnn,PDNN: A Python Toolkit for Deep Learning. http://www.cs.cmu.edu/~ymiao/pdnntk.html,Python,22,175,175,86,yajiemiao,15018842
+19800176,https://api.github.com/repos/csvoss/retroactive,csvoss/retroactive,Fun with time travel: Implementing retroactive data structures in Python,Python,1,175,175,8,csvoss,3229696
+32699077,https://api.github.com/repos/jsvine/spectra,jsvine/spectra,Easy color scales and color conversion for Python.,Python,0,175,175,3,jsvine,534702
+5450742,https://api.github.com/repos/klen/pylama,klen/pylama,Code audit tool for python.,Python,15,174,174,29,klen,90699
+42820212,https://api.github.com/repos/asciimoo/memspector,asciimoo/memspector,Inspect memory usage of python functions,Python,0,174,174,6,asciimoo,20240
+8170146,https://api.github.com/repos/alejandroautalan/pygubu,alejandroautalan/pygubu,A simple GUI designer for the python tkinter module,Python,7,174,174,27,alejandroautalan,3482471
+91837,https://api.github.com/repos/readevalprintlove/lithp,readevalprintlove/lithp,McCarthy's Lisp in Python with macros.  A celebration of 50+ years of symbolic processing.,Python,5,174,174,14,readevalprintlove,5182729
+11797696,https://api.github.com/repos/larsmans/seqlearn,larsmans/seqlearn,Sequence learning toolkit for Python,Python,10,173,173,40,larsmans,335383
+5126245,https://api.github.com/repos/jiffyclub/palettable,jiffyclub/palettable,Color palettes for Python,Python,2,173,173,25,jiffyclub,920492
+10021591,https://api.github.com/repos/fqrouter/fqsocks,fqrouter/fqsocks,Python version of redsocks tailored for anti-GFW,Python,3,173,173,56,fqrouter,720046
+6296987,https://api.github.com/repos/pinterest/pymemcache,pinterest/pymemcache,"A comprehensive, fast, pure-Python memcached client.",Python,9,173,173,63,pinterest,541152
+33870982,https://api.github.com/repos/erocarrera/pefile,erocarrera/pefile,pefile is a Python module to read and work with PE (Portable Executable) files,Python,18,173,173,87,erocarrera,213827
