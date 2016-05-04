@@ -1,10 +1,11 @@
-===================
-Project Description
-===================
+=================================================================
+Classification of Github Repository Issues:
+Reducing the Noise for Maintainers of Open-Source Python Projects
+=================================================================
 
 This repository makes up my final project for Statistics 471: Modern Data Mining.
 
-# Background #
+# Introduction #
 Software and the Internet it supports are largely products of open-source projects. From languages such as Java and Python to software such as Apache Hadoop and Linux, open-source projects ensure that the source code is maintained at the highest quality, while allowing anyone to leverage the
 software to make the world a better place. Many of the top open-source projects are hosted on Github, a repository hosting service. Github allows anyone to upload software projects, helping them manage the different versions and revisions. Fittingly, Github is the primary hosting service among open-source projects. Among its most popular features, Github allows users to submit issues to projects. Users often do this when they have a question, find an error within the code, or have a feature they would like to request. Those who help fix and improve the open-source projects are often referred to as the project’s maintainers or collaborators.
 
