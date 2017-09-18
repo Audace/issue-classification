@@ -1,5 +1,4 @@
-=================================================================
-Classification of Github Repository Issues: Reducing the Noise for Maintainers of Open-Source Python Projects
+# Classification of Github Repository Issues: Reducing the Noise for Maintainers of Open-Source Python Projects
 =================================================================
 
 This repository makes up my final project for Statistics 471: Modern Data Mining.
